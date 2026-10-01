@@ -1,0 +1,20 @@
+{
+  "clinic": {
+    "name": "Umang Ayurvedic Clinic",
+    "shortName": "Umang",
+    "tagline": "Authentic Ayurvedic Care for a Better Life",
+    "description": "Umang Ayurvedic Clinic offers specialized treatments blending traditional Ayurvedic wisdom with modern healthcare standards.",
+    "logo": "/logo.jpeg"
+  },
+  "contact": {
+    "phone": "+919999999999",
+    "whatsapp": "919999999999",
+    "email": "info@umangayurvedic.com",
+    "address": "Siddharth Tower, Office No. 101, 1st Floor, Near Post Office, Oposit Tip Top Sweet, Thane Station, Thane (west) 400602, Maharashtra",
+    "openingHours": "Mon-Sat: 10:00 AM - 8:00 PM, Sun: Closed"
+  },
+  "social": {
+    "instagram": "https://instagram.com/umangayurvedic",
+    "facebook": "https://facebook.com/umangayurvedic"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "mainNavigation": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "About Us",
+      "path": "/about"
+    },
+    {
+      "label": "Treatments",
+      "dropdown": true,
+      "items": [
+        {
+          "label": "Sexual Health",
+          "path": "/sexual-health"
+        },
+        {
+          "label": "Piles Treatment",
+          "path": "/piles-treatment"
+        },
+        {
+          "label": "Bone & Joint Care",
+          "path": "/bone-joint-care"
+        }
+      ]
+    },
+    {
+      "label": "Appointment",
+      "path": "/appointment"
+    },
+    {
+      "label": "Contact Us",
+      "path": "/contact"
+    }
+  ],
+  "cta": {
+    "label": "Book Appointment",
+    "path": "/appointment"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "page": {
+    "title": "Our Treatments",
+    "description": "We specialize in providing authentic Ayurvedic care for complex health conditions. Explore our specialized treatment areas below."
+  },
+  "items": [
+    {
+      "id": "sexual-health",
+      "title": "Sexual Health",
+      "description": "Comprehensive Ayurvedic consultation and care for sexual health concerns, focusing on restoring vitality and confidence through natural therapies.",
+      "shortDescription": "Ayurvedic consultation and care for sexual health and vitality.",
+      "image": "/images/treatment/sexual.png",
+      "icon": "Activity",
+      "path": "/sexual-health"
+    },
+    {
+      "id": "piles-treatment",
+      "title": "Piles Treatment",
+      "description": "Effective and natural Ayurvedic approaches for the management and relief of piles (hemorrhoids), addressing both symptoms and root causes.",
+      "shortDescription": "Natural Ayurvedic approaches for the management and relief of piles.",
+      "image": "/images/treatment/piles.png",
+      "icon": "CircleDot",
+      "path": "/piles-treatment"
+    },
+    {
+      "id": "bone-joint-care",
+      "title": "Bone & Joint Care",
+      "description": "Holistic treatments for joint pain, arthritis, and bone health, utilizing traditional Ayurvedic therapies to improve mobility and reduce discomfort.",
+      "shortDescription": "Holistic treatments for joint pain, arthritis, and bone health.",
+      "image": "/images/treatment/bones.png",
+      "icon": "Bone",
+      "path": "/bone-joint-care"
+    }
+  ]
+}

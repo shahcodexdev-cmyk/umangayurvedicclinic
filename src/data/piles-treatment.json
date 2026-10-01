@@ -1,0 +1,85 @@
+{
+  "page": {
+    "slug": "piles-treatment",
+    "title": "Ayurvedic Piles Treatment",
+    "subtitle": "Natural and effective care for Piles (Arsha).",
+    "description": "Comprehensive Ayurvedic management for piles, fissures, and fistulas, aiming for relief and long-term digestive health.",
+    "heroImage": "/images/treatment-pages-banner/banner.png"
+  },
+  "introduction": {
+    "title": "Understanding Piles (Arsha) in Ayurveda",
+    "description": "Ayurveda views piles (Arsha) primarily as a result of poor dietary habits, sedentary lifestyle, and impaired digestion (Mandagni), leading to constipation and the accumulation of toxins. Our treatment focuses on correcting digestion and shrinking the hemorrhoidal mass naturally.",
+    "image": "/images/specific-pages/specific-pages.png"
+  },
+  "concerns": {
+    "title": "Conditions We Manage",
+    "description": "We offer Ayurvedic care for:",
+    "items": [
+      "Bleeding and Non-bleeding Piles",
+      "Anal Fissures",
+      "Chronic Constipation leading to Piles",
+      "Digestive Disorders"
+    ]
+  },
+  "approach": {
+    "title": "Our Treatment Approach",
+    "description": "We employ a multi-faceted approach to manage piles effectively:",
+    "items": [
+      {
+        "title": "Digestive Correction",
+        "description": "Herbal medicines to improve digestion (Agni) and relieve constipation."
+      },
+      {
+        "title": "Local Applications",
+        "description": "Soothing Ayurvedic ointments and oils for local relief from pain and itching."
+      },
+      {
+        "title": "Dietary Guidelines",
+        "description": "Specific diet plans rich in fiber and tailored to your dosha to prevent recurrence."
+      }
+    ]
+  },
+  "process": {
+    "title": "Consultation Process",
+    "steps": [
+      {
+        "title": "Detailed Assessment",
+        "description": "Understanding your symptoms, dietary habits, and lifestyle."
+      },
+      {
+        "title": "Root Cause Analysis",
+        "description": "Identifying the underlying digestive issues and dosha imbalances."
+      },
+      {
+        "title": "Holistic Plan",
+        "description": "Prescribing internal medicines, local applications, and a strict diet chart."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Do I need surgery for piles?",
+        "answer": "Many early-stage piles can be effectively managed with Ayurvedic medicines, diet, and lifestyle changes without surgery. Our doctors will assess your condition and advise accordingly."
+      },
+      {
+        "question": "What kind of diet should I follow?",
+        "answer": "A diet high in fiber, adequate hydration, and avoiding spicy, processed, and heavy foods is generally recommended."
+      },
+      {
+        "question": "Is the Ayurvedic treatment painful?",
+        "answer": "The medical management of piles using oral herbs and local applications is painless and soothing."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Get Relief from Piles Naturally",
+    "description": "Book a consultation to start your personalized Ayurvedic treatment plan.",
+    "button": "Book Appointment"
+  },
+  "seo": {
+    "title": "Piles Treatment | Umang Ayurvedic Clinic",
+    "description": "Effective Ayurvedic treatment and management for piles (hemorrhoids) and digestive health."
+  }
+}

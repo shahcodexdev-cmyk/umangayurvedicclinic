@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "title": "About Umang Ayurvedic Clinic",
+    "description": "Dedicated to bringing the authentic healing power of Ayurveda to you.",
+    "image": "/images/about-us-page/about-hero-banner.png"
+  },
+  "clinic": {
+    "title": "Our Clinic",
+    "description": "Umang Ayurvedic Clinic is a modern facility rooted in traditional Ayurvedic principles. We strive to provide a comfortable, healing environment where patients receive personalized care from experienced practitioners.",
+    "image": "/images/clinic-exterior/clinic-exterior.png"
+  },
+  "approach": {
+    "title": "Our Approach to Healing",
+    "description": "We believe that true healing comes from balancing the body, mind, and spirit.",
+    "items": [
+      "Root Cause Analysis rather than symptomatic treatment",
+      "100% Natural Herbal Formulations",
+      "Personalized Diet and Lifestyle plans",
+      "Focus on long-term wellness"
+    ]
+  },
+  "practitioner": {
+    "name": "Dr. Abdul Lateef Shaikh",
+    "qualification": "B.U.M.S. (2003)",
+    "experience": "Reg. No I-44842 | EMSO - BVG | Ayush Medical Officer NRHM, Govt. Of Maharashtra",
+    "description": "Our lead physician brings years of clinical experience in successfully managing diverse health issues using authentic Ayurvedic protocols.",
+    "image": "/images/practitioner/practitioner.png"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To provide accessible, authentic, and highly effective Ayurvedic healthcare that empowers individuals to achieve optimal health naturally."
+  },
+  "cta": {
+    "title": "Experience Authentic Ayurveda",
+    "description": "Book a consultation to start your wellness journey.",
+    "button": "Book Appointment"
+  }
+}

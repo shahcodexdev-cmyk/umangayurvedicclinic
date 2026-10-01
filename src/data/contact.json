@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "description": "We are here to answer your questions and guide you on your journey to natural health."
+  },
+  "contactCards": [
+    {
+      "type": "phone",
+      "title": "Call Us",
+      "value": "+91 9999999999",
+      "action": "tel:+919999999999"
+    },
+    {
+      "type": "whatsapp",
+      "title": "WhatsApp",
+      "value": "+91 9999999999",
+      "action": "https://wa.me/919999999999"
+    },
+    {
+      "type": "email",
+      "title": "Email Us",
+      "value": "info@umangayurvedic.com",
+      "action": "mailto:info@umangayurvedic.com"
+    }
+  ],
+  "address": "Siddharth Tower, Office No. 101, 1st Floor, Near Post Office, Oposit Tip Top Sweet, Thane Station, Thane (west) 400602, Maharashtra",
+  "openingHours": "Monday to Saturday: 10:00 AM - 8:00 PM\nSunday: Closed",
+  "map": {
+    "enabled": false,
+    "embedUrl": ""
+  }
+}

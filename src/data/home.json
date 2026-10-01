@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "badge": "Authentic Ayurvedic Care",
+    "title": "Welcome to Umang Ayurvedic Clinic",
+    "highlight": "Holistic Healing for a Better Life",
+    "description": "Experience the power of Ayurveda. We provide specialized care for Sexual Health, Piles, and Bone & Joint disorders with natural and proven methodologies.",
+    "primaryButton": "Book Appointment",
+    "secondaryButton": "Explore Treatments",
+    "image": "/images/hero/main-hero.png"
+  },
+  "introduction": {
+    "eyebrow": "About Us",
+    "title": "Your Trusted Partner in Ayurvedic Healthcare",
+    "description": "At Umang Ayurvedic Clinic, we combine ancient Ayurvedic principles with modern diagnostics to provide the most effective and natural treatments for our patients. Our approach focuses on treating the root cause of the problem.",
+    "image": "/images/hero/about-us.png",
+    "button": "Learn More About Us"
+  },
+  "treatments": {
+    "eyebrow": "Our Expertise",
+    "title": "Specialized Ayurvedic Treatments",
+    "description": "We offer dedicated care and holistic treatments for specific health concerns to help you regain your vitality and well-being.",
+    "items": []
+  },
+  "whyChooseUs": {
+    "eyebrow": "Why Umang",
+    "title": "Why Choose Our Clinic",
+    "description": "We are dedicated to providing the highest standard of Ayurvedic care with a focus on patient well-being and natural healing.",
+    "items": [
+      {
+        "title": "Experienced Practitioners",
+        "description": "Our doctors have years of experience in Ayurvedic medicine and specialized treatments."
+      },
+      {
+        "title": "Natural Remedies",
+        "description": "We use authentic, high-quality Ayurvedic herbs and formulations for all our treatments."
+      },
+      {
+        "title": "Personalized Care",
+        "description": "Every patient receives a customized treatment plan based on their unique constitution (Prakriti)."
+      },
+      {
+        "title": "Holistic Approach",
+        "description": "We treat the whole person, addressing lifestyle and diet alongside medical therapies."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Patient Journey",
+    "title": "How Our Consultation Works",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Book Appointment",
+        "description": "Schedule your visit easily through our website or WhatsApp."
+      },
+      {
+        "step": "02",
+        "title": "Detailed Consultation",
+        "description": "Our doctors perform a thorough Ayurvedic diagnosis to understand your health."
+      },
+      {
+        "step": "03",
+        "title": "Personalized Plan",
+        "description": "Receive a custom treatment plan including medicines, diet, and lifestyle advice."
+      },
+      {
+        "step": "04",
+        "title": "Follow-up & Care",
+        "description": "Regular check-ins to monitor your progress and adjust the treatment if needed."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start Your Healing Journey?",
+    "description": "Book a consultation with our experienced Ayurvedic doctors today and take the first step towards better health.",
+    "button": "Book Appointment Now"
+  }
+}

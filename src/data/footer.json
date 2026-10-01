@@ -1,0 +1,43 @@
+{
+  "description": "Umang Ayurvedic Clinic offers specialized, authentic Ayurvedic treatments for various health conditions, focusing on natural healing and long-term wellness.",
+  "quickLinks": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "About Us",
+      "path": "/about"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    },
+    {
+      "label": "Book Appointment",
+      "path": "/appointment"
+    }
+  ],
+  "treatments": [
+    {
+      "label": "Sexual Health",
+      "path": "/sexual-health"
+    },
+    {
+      "label": "Piles Treatment",
+      "path": "/piles-treatment"
+    },
+    {
+      "label": "Bone & Joint Care",
+      "path": "/bone-joint-care"
+    }
+  ],
+  "contact": {
+    "phone": "+91 9999999999",
+    "whatsapp": "+91 9999999999",
+    "email": "info@umangayurvedic.com",
+    "address": "Siddharth Tower, Office No. 101, 1st Floor, Near Post Office, Oposit Tip Top Sweet, Thane Station, Thane (west) 400602, Maharashtra",
+    "hours": "Mon-Sat: 10:00 AM - 8:00 PM"
+  },
+  "copyright": "© 2026 Umang Ayurvedic Clinic. All rights reserved."
+}

@@ -1,0 +1,85 @@
+{
+  "page": {
+    "slug": "sexual-health",
+    "title": "Sexual Health Consultation",
+    "subtitle": "Ayurvedic approach to restoring vitality and wellness.",
+    "description": "We offer discreet, professional, and holistic Ayurvedic care for various sexual health concerns.",
+    "heroImage": "/images/treatment-pages-banner/banner.png"
+  },
+  "introduction": {
+    "title": "Understanding Sexual Health in Ayurveda",
+    "description": "In Ayurveda, sexual wellness (Vajikarana) is considered essential for a healthy and balanced life. Our treatments focus on nourishing the reproductive tissues, balancing the doshas, and improving overall vitality without the use of harmful chemicals.",
+    "image": "/images/specific-pages/specific-pages.png"
+  },
+  "concerns": {
+    "title": "Conditions We Consult For",
+    "description": "Our expert practitioners provide guidance and treatment plans for:",
+    "items": [
+      "Loss of Vitality and Stamina",
+      "Stress-related Performance Issues",
+      "General Weakness",
+      "Hormonal Imbalances"
+    ]
+  },
+  "approach": {
+    "title": "Our Ayurvedic Approach",
+    "description": "We believe in addressing the root cause of the issue through a comprehensive approach:",
+    "items": [
+      {
+        "title": "Herbal Formulations",
+        "description": "Customized Ayurvedic medicines to nourish tissues and improve circulation."
+      },
+      {
+        "title": "Dietary Modifications",
+        "description": "Guidance on a Vajikarana diet that naturally supports reproductive health."
+      },
+      {
+        "title": "Lifestyle Counseling",
+        "description": "Stress management techniques and daily routines to balance the mind and body."
+      }
+    ]
+  },
+  "process": {
+    "title": "Consultation Process",
+    "steps": [
+      {
+        "title": "Private Consultation",
+        "description": "A one-on-one, confidential discussion about your health concerns."
+      },
+      {
+        "title": "Ayurvedic Diagnosis",
+        "description": "Understanding your body type (Prakriti) and dosha imbalances."
+      },
+      {
+        "title": "Treatment Plan",
+        "description": "A personalized plan including herbal supplements and lifestyle advice."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is the consultation confidential?",
+        "answer": "Yes, maintaining your privacy and confidentiality is our highest priority."
+      },
+      {
+        "question": "Are Ayurvedic medicines safe for long-term use?",
+        "answer": "When prescribed by a qualified Ayurvedic doctor, these natural medicines are generally safe and focus on holistic healing."
+      },
+      {
+        "question": "How long does it take to see improvements?",
+        "answer": "Results vary depending on the individual and the chronicity of the condition. Ayurveda focuses on gradual, sustainable improvement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Take a Step Towards Better Health",
+    "description": "Schedule a confidential consultation with our experts today.",
+    "button": "Book Appointment"
+  },
+  "seo": {
+    "title": "Sexual Health Clinic | Umang Ayurvedic Clinic",
+    "description": "Professional Ayurvedic consultation and care for sexual health concerns."
+  }
+}

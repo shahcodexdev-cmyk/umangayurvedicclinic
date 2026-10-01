@@ -1,0 +1,17 @@
+{
+  "buttons": {
+    "bookAppointment": "Book Appointment",
+    "whatsapp": "WhatsApp Us",
+    "callNow": "Call Now",
+    "learnMore": "Learn More",
+    "exploreTreatment": "Explore Treatment",
+    "contactUs": "Contact Us",
+    "viewTreatments": "View Treatments",
+    "bookOnWhatsApp": "Book on WhatsApp"
+  },
+  "labels": {
+    "readMore": "Read More",
+    "sendMessage": "Send Message",
+    "submit": "Submit"
+  }
+}

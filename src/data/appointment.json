@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "Book an Appointment",
+    "description": "Schedule a consultation with our Ayurvedic experts. Please fill out the form below, and we will confirm your appointment."
+  },
+  "form": {
+    "title": "Consultation Request",
+    "description": "Fill in your details to book a consultation via WhatsApp.",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "mobile": {
+        "label": "Mobile Number",
+        "placeholder": "Enter your 10-digit mobile number"
+      },
+      "treatment": {
+        "label": "Select Treatment Area",
+        "placeholder": "Select an option"
+      },
+      "date": {
+        "label": "Preferred Date"
+      },
+      "time": {
+        "label": "Preferred Time"
+      },
+      "message": {
+        "label": "Your Concern (Optional)",
+        "placeholder": "Briefly describe your health concern"
+      }
+    },
+    "submitButton": "Book Appointment on WhatsApp"
+  },
+  "successMessage": "Redirecting to WhatsApp to complete your booking...",
+  "validationMessages": {
+    "required": "This field is required",
+    "invalidMobile": "Please enter a valid 10-digit mobile number",
+    "invalidDate": "Please select a future date"
+  }
+}

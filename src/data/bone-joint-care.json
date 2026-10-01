@@ -1,0 +1,86 @@
+{
+  "page": {
+    "slug": "bone-joint-care",
+    "title": "Bone & Joint Care",
+    "subtitle": "Ayurvedic management for joint pain and bone health.",
+    "description": "Restore mobility and reduce pain with our traditional Ayurvedic therapies for arthritis, back pain, and joint disorders.",
+    "heroImage": "/images/treatment-pages-banner/banner.png"
+  },
+  "introduction": {
+    "title": "Ayurvedic Perspective on Joint Health",
+    "description": "According to Ayurveda, joint problems often arise from an accumulation of toxins (Ama) and an aggravation of Vata dosha, which dries out the lubricating fluids in the joints. Our therapies aim to remove toxins, pacify Vata, and nourish the bone tissues (Asthi dhatu).",
+    "image": "/images/specific-pages/specific-pages.png"
+  },
+  "concerns": {
+    "title": "Conditions We Manage",
+    "description": "We provide consultation and care for:",
+    "items": [
+      "Osteoarthritis (Sandhigata Vata)",
+      "Rheumatoid Arthritis (Amavata)",
+      "Sciatica and Back Pain",
+      "General Joint Stiffness and Pain",
+      "Muscle Spasms"
+    ]
+  },
+  "approach": {
+    "title": "Our Treatment Approach",
+    "description": "Our holistic approach includes:",
+    "items": [
+      {
+        "title": "Internal Medication",
+        "description": "Herbal formulations to reduce inflammation, clear toxins, and nourish joints."
+      },
+      {
+        "title": "External Therapies",
+        "description": "Guidance on Ayurvedic oil applications (Abhyanga) and warm compresses (Swedana)."
+      },
+      {
+        "title": "Lifestyle & Movement",
+        "description": "Recommendations for gentle yoga, exercises, and postural corrections."
+      }
+    ]
+  },
+  "process": {
+    "title": "Consultation Process",
+    "steps": [
+      {
+        "title": "Clinical Assessment",
+        "description": "Evaluating joint mobility, pain levels, and swelling."
+      },
+      {
+        "title": "Dosha Evaluation",
+        "description": "Determining the specific doshic imbalance causing the joint issue."
+      },
+      {
+        "title": "Comprehensive Plan",
+        "description": "Creating a treatment strategy that may include medicines, diet, and lifestyle adjustments."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Can Ayurveda cure arthritis completely?",
+        "answer": "Ayurveda focuses on managing the condition, reducing pain, halting progression, and improving the quality of life, rather than promising a 'magic cure'."
+      },
+      {
+        "question": "Are Ayurvedic oils effective for joint pain?",
+        "answer": "Yes, medicated Ayurvedic oils are highly effective in reducing Vata, lowering inflammation, and improving lubrication in the joints."
+      },
+      {
+        "question": "How long does the treatment take?",
+        "answer": "Joint issues are often chronic. Significant relief requires time, consistency with medications, and strict adherence to dietary guidelines."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Move Freely Without Pain",
+    "description": "Consult our Ayurvedic experts for a personalized joint care plan.",
+    "button": "Book Appointment"
+  },
+  "seo": {
+    "title": "Bone & Joint Care | Umang Ayurvedic Clinic",
+    "description": "Ayurvedic treatments for joint pain, arthritis, and bone health."
+  }
+}
