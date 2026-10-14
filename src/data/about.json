@@ -1,38 +1,38 @@
 {
   "hero": {
-    "title": "About Umang Ayurvedic Clinic",
-    "description": "Dedicated to bringing the authentic healing power of Ayurveda to you.",
+    "title": "Umang Ayurvedic Clinic के बारे में",
+    "description": "ठाणे स्टेशन के पास, सेक्स, बवासीर, भगंदर और हड्डी-नस की समस्याओं का भरोसेमंद इलाज केंद्र।",
     "image": "/images/about-us-page/about-hero-banner.png"
   },
   "clinic": {
-    "title": "Our Clinic",
-    "description": "Umang Ayurvedic Clinic is a modern facility rooted in traditional Ayurvedic principles. We strive to provide a comfortable, healing environment where patients receive personalized care from experienced practitioners.",
+    "title": "हमारा क्लिनिक (Office No. 101, ठाणे)",
+    "description": "उमंग आयुर्वेदिक क्लिनिक ठाणे (पश्चिम) में स्टेशन के बिल्कुल पास स्थित है। हमारा मकसद हर मरीज को एक साफ-सुथरे और प्राइवेट माहौल में सही सलाह और असरदार इलाज देना है। यहाँ आयुर्वेद और यूनानी चिकित्सा के साथ-साथ आधुनिक लेजर की सुविधा भी उपलब्ध है।",
     "image": "/images/clinic-exterior/clinic-exterior.png"
   },
   "approach": {
-    "title": "Our Approach to Healing",
-    "description": "We believe that true healing comes from balancing the body, mind, and spirit.",
+    "title": "हमारा इलाज का तरीका",
+    "description": "हम बीमारी को सिर्फ दबाते नहीं, बल्कि सही दवा और परहेज से जड़ से ठीक करते हैं:",
     "items": [
-      "Root Cause Analysis rather than symptomatic treatment",
-      "100% Natural Herbal Formulations",
-      "Personalized Diet and Lifestyle plans",
-      "Focus on long-term wellness"
+      "बीमारी के असली कारण को समझकर सही इलाज करना",
+      "आयुर्वेदिक और यूनानी दवाओं से सुरक्षित इलाज (बिना साइड इफेक्ट)",
+      "बवासीर और फिस्टुला के लिए आधुनिक लेजर की सुविधा",
+      "खान-पान और लाइफस्टाइल की पूरी और आसान सलाह"
     ]
   },
   "practitioner": {
-    "name": "Dr. Abdul Lateef Shaikh",
-    "qualification": "B.U.M.S. (2003)",
-    "experience": "Reg. No I-44842 | EMSO - BVG | Ayush Medical Officer NRHM, Govt. Of Maharashtra",
-    "description": "Our lead physician brings years of clinical experience in successfully managing diverse health issues using authentic Ayurvedic protocols.",
-    "image": "/images/practitioner/practitioner.png"
+    "name": "अनुभवी एवं विशेषज्ञ डॉक्टर्स",
+    "role": "वरिष्ठ आयुर्वेदिक एवं यूनानी विशेषज्ञ टीम",
+    "experience": "20 से अधिक वर्षों का सफल चिकित्सकीय अनुभव",
+    "description": "उमंग आयुर्वेदिक क्लिनिक में उच्च अनुभवी और विशेषज्ञ डॉक्टर्स की टीम मौजूद है। हमारे डॉक्टर्स पिछले 20 से अधिक वर्षों से बवासीर, भगंदर, सेक्स समस्याओं और दबी नस (Sciatica) के मरीजों का सफलतापूर्वक इलाज कर रहे हैं। यहाँ मरीज की बीमारी के मूल कारण को समझकर सही सलाह और असरदार आयुर्वेदिक व यूनानी दवाएं दी जाती हैं। मरीजों की गोपनीयता (प्राइवेसी) और सही समाधान हमारी सर्वोच्च प्राथमिकता है।",
+    "image": "/images/hero/about-us.png"
   },
   "mission": {
-    "title": "Our Mission",
-    "description": "To provide accessible, authentic, and highly effective Ayurvedic healthcare that empowers individuals to achieve optimal health naturally."
+    "title": "हमारा लक्ष्य",
+    "description": "हर मरीज को बिना किसी दर्द और साइड इफेक्ट के प्राकृतिक रूप से स्वस्थ और तंदुरुस्त बनाना।"
   },
   "cta": {
-    "title": "Experience Authentic Ayurveda",
-    "description": "Book a consultation to start your wellness journey.",
-    "button": "Book Appointment"
+    "title": "अपनी समस्या के समाधान के लिए आज ही अनुभवी डॉक्टर से मिलें",
+    "description": "अपॉइंटमेंट के लिए 98338 26366 या 8652674047 पर संपर्क करें।",
+    "button": "अपॉइंटमेंट बुक करें"
   }
 }

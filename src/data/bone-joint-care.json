@@ -1,86 +1,90 @@
 {
   "page": {
     "slug": "bone-joint-care",
-    "title": "Bone & Joint Care",
-    "subtitle": "Ayurvedic management for joint pain and bone health.",
-    "description": "Restore mobility and reduce pain with our traditional Ayurvedic therapies for arthritis, back pain, and joint disorders.",
+    "title": "Sciatica & Bone Care (हड्डी में गैप व दबी नस)",
+    "subtitle": "हड्डी में गैप और दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से इलाज मुमकिन है",
+    "description": "कमर से लेकर पैर तक जाने वाला तेज दर्द (Sciatica), रीढ़ की हड्डी में गैप, स्लिप डिस्क या घुटनों के दर्द से परेशान हैं? बिना सर्जरी प्राकृतिक दवाओं से दर्द-मुक्त जीवन जिएं।",
     "heroImage": "/images/treatment-pages-banner/banner.png"
   },
   "introduction": {
-    "title": "Ayurvedic Perspective on Joint Health",
-    "description": "According to Ayurveda, joint problems often arise from an accumulation of toxins (Ama) and an aggravation of Vata dosha, which dries out the lubricating fluids in the joints. Our therapies aim to remove toxins, pacify Vata, and nourish the bone tissues (Asthi dhatu).",
-    "image": "/images/specific-pages/specific-pages.png"
+    "title": "हड्डी में गैप और दबी नस (Sciatica) को समझें",
+    "description": "उम्र बढ़ने, भारी वजन उठाने या गलत तरीके से बैठने-उठने से रीढ़ की हड्डी में गैप कम हो जाता है और साइटिका नस दबने लगती है। इससे कूल्हे से लेकर पैर की उंगलियों तक तेज झनझनाहट, सुन्नपन और असहनीय दर्द होता है। उमंग आयुर्वेदिक क्लिनिक में हम आयुर्वेदिक और यूनानी दवाओं और तेल मालिश से दबी नस को खोलते हैं और नसों की सूजन को जड़ से मिटाते हैं।",
+    "image": "/images/treatment/bones.png"
   },
   "concerns": {
-    "title": "Conditions We Manage",
-    "description": "We provide consultation and care for:",
+    "title": "किन-किन तकलीफों का सफल इलाज किया जाता है?",
+    "description": "हमारे पास इन सभी समस्याओं का पक्का और भरोसेमंद इलाज है:",
     "items": [
-      "Osteoarthritis (Sandhigata Vata)",
-      "Rheumatoid Arthritis (Amavata)",
-      "Sciatica and Back Pain",
-      "General Joint Stiffness and Pain",
-      "Muscle Spasms"
+      "हड्डी में गैप और दबी नस (Sciatica) – कमर से पैर तक जाने वाला तेज दर्द और खिंचाव",
+      "घुटनों का घिसाव और जोड़ों का दर्द (Osteoarthritis / गठिया)",
+      "कमर दर्द (Lumbago / Slip Disc / L4-L5 नस दबना)",
+      "गर्दन का दर्द, सर्वाइकल और हाथों में सुन्नपन",
+      "जोड़ों में सूजन, अकड़न और चलने-फिरने में भारी परेशानी",
+      "मांसपेशियों में ऐंठन और पुरानी नसों की कमजोरी"
     ]
   },
   "approach": {
-    "title": "Our Treatment Approach",
-    "description": "Our holistic approach includes:",
+    "title": "हमारा इलाज का तरीका",
+    "description": "बिना किसी ऑपरेशन के नसों और जोड़ों को प्राकृतिक रूप से ठीक किया जाता है:",
     "items": [
       {
-        "title": "Internal Medication",
-        "description": "Herbal formulations to reduce inflammation, clear toxins, and nourish joints."
+        "title": "आयुर्वेदिक व यूनानी दवाएं",
+        "description": "नसों की सूजन को दूर करने, हड्डी को पोषण देने और गैप की समस्या में राहत पहुंचाने वाली शास्त्रोक्त औषधियां।"
       },
       {
-        "title": "External Therapies",
-        "description": "Guidance on Ayurvedic oil applications (Abhyanga) and warm compresses (Swedana)."
+        "title": "औषधीय तैल मालिश व सिकाई",
+        "description": "विशेष जड़ी-बूटी युक्त तेलों से नसों में खून का दौरा बढ़ता है और पैरों का सुन्नपन व खिंचाव तेजी से दूर होता है।"
       },
       {
-        "title": "Lifestyle & Movement",
-        "description": "Recommendations for gentle yoga, exercises, and postural corrections."
+        "title": "सरल व्यायाम और बैठने की सही मुद्रा",
+        "description": "कमर और घुटनों पर दबाव कम करने के लिए आसान टिप्स ताकि दर्द दोबारा कभी न उभरे।"
       }
     ]
   },
   "process": {
-    "title": "Consultation Process",
+    "title": "इलाज कैसे शुरू करें?",
     "steps": [
       {
-        "title": "Clinical Assessment",
-        "description": "Evaluating joint mobility, pain levels, and swelling."
+        "step": "01",
+        "title": "अपॉइंटमेंट तय करें",
+        "description": "9833826366 या 8652674047 पर फोन या WhatsApp करके मिलने का समय तय करें।"
       },
       {
-        "title": "Dosha Evaluation",
-        "description": "Determining the specific doshic imbalance causing the joint issue."
+        "step": "02",
+        "title": "जांच व एमआरआई रिपोर्ट दिखाएं",
+        "description": "डॉक्टर को अपनी एक्स-रे या एमआरआई रिपोर्ट दिखाएं और नस दबने का सही कारण समझें।"
       },
       {
-        "title": "Comprehensive Plan",
-        "description": "Creating a treatment strategy that may include medicines, diet, and lifestyle adjustments."
+        "step": "03",
+        "title": "दवा का कोर्स शुरू करें",
+        "description": "कुछ ही हफ्तों में बिना ऑपरेशन दर्द में भारी आराम और नई गतिशीलता पाएं।"
       }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "अक्सर पूछे जाने वाले सवाल (FAQ)",
     "items": [
       {
-        "question": "Can Ayurveda cure arthritis completely?",
-        "answer": "Ayurveda focuses on managing the condition, reducing pain, halting progression, and improving the quality of life, rather than promising a 'magic cure'."
+        "question": "क्या साइटिका (Sciatica) बिना ऑपरेशन ठीक हो सकता है?",
+        "answer": "जी हाँ! ज्यादातर मामलों में दबी हुई नस आयुर्वेदिक और यूनानी दवाओं और तेल प्रयोग से पूरी तरह खुल जाती है और बिना किसी ऑपरेशन के मरीज ठीक हो जाता है।"
       },
       {
-        "question": "Are Ayurvedic oils effective for joint pain?",
-        "answer": "Yes, medicated Ayurvedic oils are highly effective in reducing Vata, lowering inflammation, and improving lubrication in the joints."
+        "question": "पैर में सुन्नपन और झनझनाहट कितने दिन में ठीक होती है?",
+        "answer": "दवा और तेल का इस्तेमाल शुरू करने के 1 से 2 हफ्तों के भीतर ही झनझनाहट और सुन्नपन में साफ सुधार दिखने लगता है।"
       },
       {
-        "question": "How long does the treatment take?",
-        "answer": "Joint issues are often chronic. Significant relief requires time, consistency with medications, and strict adherence to dietary guidelines."
+        "question": "क्या घुटने बदलने की सर्जरी से बचा जा सकता है?",
+        "answer": "अगर शुरुआती या मध्यम स्तर पर इलाज शुरू किया जाए, तो आयुर्वेदिक उपचार से घुटनों के कार्टिलेज को पोषण मिलता है और सर्जरी से बचा जा सकता है।"
       }
     ]
   },
   "cta": {
-    "title": "Move Freely Without Pain",
-    "description": "Consult our Ayurvedic experts for a personalized joint care plan.",
-    "button": "Book Appointment"
+    "title": "बिना दर्द के स्वतंत्र और खुशहाल चलें-फिरें",
+    "description": "हड्डी में गैप और दबी नस का इलाज मुमकिन है। आज ही परामर्श बुक करें।",
+    "button": "अपॉइंटमेंट बुक करें"
   },
   "seo": {
-    "title": "Bone & Joint Care | Umang Ayurvedic Clinic",
-    "description": "Ayurvedic treatments for joint pain, arthritis, and bone health."
+    "title": "हड्डी में गैप व साइटिका का इलाज | Sciatica & Bone Care Thane | Umang Clinic",
+    "description": "हड्डी में गैप और दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से इलाज मुमकिन है। ठाणे (पश्चिम). Call: 9833826366 / 8652674047."
   }
 }

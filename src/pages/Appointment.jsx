@@ -8,7 +8,11 @@ import { Phone, MapPin } from 'lucide-react';
 const Appointment = () => {
   return (
     <>
-      <SEO title="Book Appointment | Umang Ayurvedic Clinic" description={apptData.hero.description} />
+      <SEO 
+        title="अपॉइंटमेंट बुक करें | Book Consultation | Umang Ayurvedic Clinic" 
+        description="उमंग आयुर्वेदिक क्लिनिक ठाणे में परामर्श के लिए समय बुक करें। Book appointment with expert Ayurvedic doctors in Thane West."
+        keywords="Book appointment ayurvedic clinic, Thane ayurvedic doctor consultation, Umang clinic appointment, अपॉइंटमेंट बुक करें, ठाणे आयुर्वेदिक क्लिनिक" 
+      />
       
       {/* Hero */}
       <section className="bg-primary-dark text-white py-16">
@@ -28,7 +32,7 @@ const Appointment = () => {
             {/* Left Info */}
             <div className="lg:w-1/3">
               <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 h-full">
-                <h3 className="text-2xl font-bold text-primary mb-6">Contact Information</h3>
+                <h3 className="text-2xl font-bold text-primary mb-6">संपर्क जानकारी</h3>
                 
                 <div className="space-y-8">
                   <div className="flex items-start space-x-4">
@@ -36,8 +40,8 @@ const Appointment = () => {
                       <Phone size={24} />
                     </div>
                     <div>
-                      <h4 className="font-semibold text-foreground text-lg">Call Us</h4>
-                      <p className="text-gray-600 mt-1">{siteData.contact.phone}</p>
+                      <h4 className="font-semibold text-foreground text-lg">फ़ोन पर बात करें</h4>
+                      <p className="text-gray-600 mt-1 font-medium">{siteData.contact.phoneDisplay || siteData.contact.phone}</p>
                     </div>
                   </div>
                   
@@ -46,7 +50,7 @@ const Appointment = () => {
                       <MapPin size={24} />
                     </div>
                     <div>
-                      <h4 className="font-semibold text-foreground text-lg">Location</h4>
+                      <h4 className="font-semibold text-foreground text-lg">क्लिनिक का पता</h4>
                       <p className="text-gray-600 mt-1">{siteData.contact.address}</p>
                     </div>
                   </div>
@@ -54,8 +58,13 @@ const Appointment = () => {
                   <hr className="border-gray-100" />
                   
                   <div>
-                    <h4 className="font-semibold text-foreground text-lg mb-2">Opening Hours</h4>
-                    <p className="text-gray-600 whitespace-pre-line">{siteData.contact.openingHours}</p>
+                    <h4 className="font-semibold text-foreground text-lg mb-2">क्लिनिक का समय (TIMING)</h4>
+                    <p className="text-gray-800 font-medium text-sm">
+                      <span className="font-bold text-primary">Monday to Saturday:</span> Mor. 10 AM to Eve. 9 PM
+                    </p>
+                    <p className="text-gray-800 font-medium text-sm mt-1">
+                      <span className="font-bold text-secondary">Sunday:</span> Mor. 10 AM to 2 PM
+                    </p>
                   </div>
                 </div>
               </div>

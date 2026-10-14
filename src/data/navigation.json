@@ -1,42 +1,46 @@
 {
   "mainNavigation": [
     {
-      "label": "Home",
+      "label": "होम",
       "path": "/"
     },
     {
-      "label": "About Us",
+      "label": "हमारे बारे में",
       "path": "/about"
     },
     {
-      "label": "Treatments",
+      "label": "उपचार सेवाएं",
       "dropdown": true,
       "items": [
         {
-          "label": "Sexual Health",
+          "label": "Sexual Health (यौन समस्याएं)",
           "path": "/sexual-health"
         },
         {
-          "label": "Piles Treatment",
+          "label": "Piles (बवासीर का इलाज)",
           "path": "/piles-treatment"
         },
         {
-          "label": "Bone & Joint Care",
+          "label": "Fistula (भगंदर का इलाज)",
+          "path": "/fistula-treatment"
+        },
+        {
+          "label": "Sciatica & Bones (हड्डी में गैप व नस)",
           "path": "/bone-joint-care"
         }
       ]
     },
     {
-      "label": "Appointment",
+      "label": "अपॉइंटमेंट",
       "path": "/appointment"
     },
     {
-      "label": "Contact Us",
+      "label": "संपर्क करें",
       "path": "/contact"
     }
   ],
   "cta": {
-    "label": "Book Appointment",
+    "label": "अपॉइंटमेंट बुक करें",
     "path": "/appointment"
   }
 }

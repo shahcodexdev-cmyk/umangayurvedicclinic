@@ -5,10 +5,13 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    font-family: 'Outfit', 'Noto Sans Devanagari', 'Inter', system-ui, sans-serif;
   }
   
   body {
     @apply bg-background text-foreground antialiased selection:bg-primary selection:text-white;
+    top: 0px !important;
+    position: static !important;
   }
 }
 
@@ -28,4 +31,31 @@
   .btn-outline {
     @apply inline-flex items-center justify-center px-6 py-3 border-2 border-primary text-base font-medium rounded-md text-primary bg-transparent hover:bg-primary hover:text-white transition-colors duration-300;
   }
+}
+
+/* Hide annoying Google Translate Top Banner and Toolbars */
+.goog-te-banner-frame.skiptranslate, 
+.goog-te-banner-frame,
+iframe.goog-te-banner-frame {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+}
+
+#goog-gt-tt, 
+.goog-te-balloon-frame {
+  display: none !important;
+}
+
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.skiptranslate iframe {
+  display: none !important;
+}
+
+#google_translate_element {
+  display: none !important;
 }

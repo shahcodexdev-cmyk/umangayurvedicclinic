@@ -1,78 +1,78 @@
 {
   "hero": {
-    "badge": "Authentic Ayurvedic Care",
-    "title": "Welcome to Umang Ayurvedic Clinic",
-    "highlight": "Holistic Healing for a Better Life",
-    "description": "Experience the power of Ayurveda. We provide specialized care for Sexual Health, Piles, and Bone & Joint disorders with natural and proven methodologies.",
-    "primaryButton": "Book Appointment",
-    "secondaryButton": "Explore Treatments",
+    "badge": "Office No. 101 | ठाणे (पश्चिम)",
+    "title": "Umang Ayurvedic Clinic",
+    "highlight": "For – Sex | Piles | Fistula | Bones & Sciatica",
+    "description": "हड्डी में गैप और दबी नस (Sciatica), खूनी व बादी बवासीर, फिस्टुला (भगंदर) और सेक्स समस्याओं का आयुर्वेदिक और यूनानी दवाओं से सफल इलाज। लेजर की सुविधा भी उपलब्ध है।",
+    "primaryButton": "अपॉइंटमेंट बुक करें",
+    "secondaryButton": "उपचार सेवाएं देखें",
     "image": "/images/hero/main-hero.png"
   },
   "introduction": {
-    "eyebrow": "About Us",
-    "title": "Your Trusted Partner in Ayurvedic Healthcare",
-    "description": "At Umang Ayurvedic Clinic, we combine ancient Ayurvedic principles with modern diagnostics to provide the most effective and natural treatments for our patients. Our approach focuses on treating the root cause of the problem.",
+    "eyebrow": "हमारे बारे में",
+    "title": "आपकी सेहत और भरोसे का आयुर्वेदिक केंद्र",
+    "description": "उमंग आयुर्वेदिक क्लिनिक में हम पुरानी और जिद्दी बीमारियों को समझकर उनका सही इलाज करते हैं। सेक्स समस्याएं, बवासीर, भगंदर और हड्डी-जोड़ों के दर्द में सिर्फ दर्द दबाना नहीं, बल्कि बीमारी को जड़ से ठीक करना हमारा मकसद है।",
     "image": "/images/hero/about-us.png",
-    "button": "Learn More About Us"
+    "button": "क्लिनिक और हमारे बारे में जानें"
   },
   "treatments": {
-    "eyebrow": "Our Expertise",
-    "title": "Specialized Ayurvedic Treatments",
-    "description": "We offer dedicated care and holistic treatments for specific health concerns to help you regain your vitality and well-being.",
+    "eyebrow": "हमारी विशेषताएं",
+    "title": "प्रमुख उपचार और सेवाएं",
+    "description": "हमारे पास इन बीमारियों का अनुभवी डॉक्टरों द्वारा असरदार इलाज किया जाता है:",
     "items": []
   },
   "whyChooseUs": {
-    "eyebrow": "Why Umang",
-    "title": "Why Choose Our Clinic",
-    "description": "We are dedicated to providing the highest standard of Ayurvedic care with a focus on patient well-being and natural healing.",
+    "eyebrow": "उमंग क्लिनिक क्यों चुनें?",
+    "title": "मरीजों का हम पर भरोसा",
+    "description": "हम हर मरीज की तकलीफ को ध्यान से सुनकर उनके लिए सबसे सही और सुरक्षित इलाज बताते हैं।",
     "items": [
       {
-        "title": "Experienced Practitioners",
-        "description": "Our doctors have years of experience in Ayurvedic medicine and specialized treatments."
+        "title": "20+ सालों का अनुभव",
+        "description": "हमारे अनुभवी डॉक्टरों के पास जटिल और पुराने रोगों के इलाज का लंबा और सफल अनुभव है।"
       },
       {
-        "title": "Natural Remedies",
-        "description": "We use authentic, high-quality Ayurvedic herbs and formulations for all our treatments."
+        "title": "आयुर्वेदिक व यूनानी दवाएं",
+        "description": "शुद्ध जड़ी-बूटियों से बनी असरदार दवाएं, जिनका शरीर पर कोई बुरा असर (साइड इफेक्ट) नहीं होता।"
       },
       {
-        "title": "Personalized Care",
-        "description": "Every patient receives a customized treatment plan based on their unique constitution (Prakriti)."
+        "title": "लेजर ट्रीटमेंट की सुविधा",
+        "description": "बवासीर (Piles) और फिस्टुला में जरूरत पड़ने पर आधुनिक लेजर की सुविधा भी उपलब्ध है।"
       },
       {
-        "title": "Holistic Approach",
-        "description": "We treat the whole person, addressing lifestyle and diet alongside medical therapies."
+        "title": "100% प्राइवेसी और गोपनीयता",
+        "description": "सेक्स समस्याओं और व्यक्तिगत तकलीफों में आपकी पहचान और बातें पूरी तरह गुप्त रखी जाती हैं।"
       }
     ]
   },
   "process": {
-    "eyebrow": "Patient Journey",
-    "title": "How Our Consultation Works",
+    "eyebrow": "आसान प्रक्रिया",
+    "title": "इलाज और परामर्श कैसे लें?",
     "steps": [
       {
         "step": "01",
-        "title": "Book Appointment",
-        "description": "Schedule your visit easily through our website or WhatsApp."
+        "title": "फोन या WhatsApp करें",
+        "description": "9833826366 या 8652674047 पर सीधे कॉल या WhatsApp करके समय तय करें।"
       },
       {
         "step": "02",
-        "title": "Detailed Consultation",
-        "description": "Our doctors perform a thorough Ayurvedic diagnosis to understand your health."
+        "title": "डॉक्टर से खुलकर बात करें",
+        "description": "क्लिनिक पर आकर या फोन पर अपनी तकलीफ के लक्षण डॉक्टर को विस्तार से बताएं।"
       },
       {
         "step": "03",
-        "title": "Personalized Plan",
-        "description": "Receive a custom treatment plan including medicines, diet, and lifestyle advice."
+        "title": "सही दवा और सलाह पाएं",
+        "description": "आपकी बीमारी के हिसाब से असरदार आयुर्वेदिक-यूनानी दवाएं और खान-पान का सही चार्ट लें।"
       },
       {
         "step": "04",
-        "title": "Follow-up & Care",
-        "description": "Regular check-ins to monitor your progress and adjust the treatment if needed."
+        "title": "तेजी से आराम और फॉलो-अप",
+        "description": "दवाओं के असर के साथ-साथ समय पर चेकअप ताकि बीमारी दोबारा न उभरे।"
       }
     ]
   },
   "cta": {
-    "title": "Ready to Start Your Healing Journey?",
-    "description": "Book a consultation with our experienced Ayurvedic doctors today and take the first step towards better health.",
-    "button": "Book Appointment Now"
+    "title": "दर्द और परेशानी से तुरंत राहत पाएं",
+    "description": "आज ही हमारे क्लिनिक पर आएं या WhatsApp पर बात करके अपना अपॉइंटमेंट पक्का करें।",
+    "button": "WhatsApp पर अपॉइंटमेंट लें"
   }
 }

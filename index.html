@@ -1,18 +1,99 @@
 <!doctype html>
-<html lang="en">
+<html lang="hi">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Umang Ayurvedic Clinic</title>
+    <title>उमंग आयुर्वेदिक क्लिनिक | Umang Ayurvedic Clinic - Piles, Sexual Health & Joint Care</title>
     
-    <!-- Google Fonts -->
+    <!-- Bilingual Meta Description & Keywords for Search Engines -->
+    <meta name="description" content="उमंग आयुर्वेदिक क्लिनिक ठाणे - बवासीर (अर्श), यौन स्वास्थ्य (गुप्त रोग) और जोड़ों के दर्द (गठिया) का प्राकृतिक आयुर्वेदिक उपचार। Specialized Ayurvedic clinic in Thane, Mumbai for Piles, Sexual Health & Arthritis." />
+    <meta name="keywords" content="Ayurvedic Clinic Thane, Umang Ayurvedic Clinic, Experienced Ayurvedic Doctor Thane, Piles treatment in Ayurveda, Ayurvedic Doctor Thane Mumbai, Sexual health ayurvedic clinic, Erectile dysfunction ayurveda, Joint pain arthritis ayurveda, Sciatica ayurvedic treatment, बवासीर का आयुर्वेदिक इलाज, गुप्त रोग चिकित्सक, जोड़ों का दर्द, ठाणे आयुर्वेदिक क्लिनिक" />
+    <meta name="author" content="Umang Ayurvedic Clinic" />
+
+    <!-- OpenGraph / Social Sharing -->
+    <meta property="og:title" content="उमंग आयुर्वेदिक क्लिनिक | Umang Ayurvedic Clinic" />
+    <meta property="og:description" content="बवासीर, यौन स्वास्थ्य और जोड़ों के दर्द का प्राकृतिक व सुरक्षित आयुर्वेदिक उपचार। ठाणे (पश्चिम), महाराष्ट्र।" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/logo.jpeg" />
+    
+    <!-- Google Fonts (Outfit, Inter & Noto Sans Devanagari) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Schema.org Structured Data for Googlebot (Medical Clinic) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "name": "Umang Ayurvedic Clinic (उमंग आयुर्वेदिक क्लिनिक)",
+      "alternateName": "उमंग क्लिनिक",
+      "medicalSpecialty": [
+        "Ayurvedic",
+        "Proctology",
+        "SexualHealth",
+        "Orthopedics"
+      ],
+      "availableService": [
+        {
+          "@type": "MedicalProcedure",
+          "name": "Piles, Fissure and Fistula Ayurvedic Treatment (बवासीर उपचार)"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Sexual Health & Vitality Consultation (यौन स्वास्थ्य परामर्श)"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Bone & Joint Care / Arthritis Treatment (गठिया एवं जोड़ों का दर्द)"
+        }
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siddharth Tower, Office No. 101, 1st Floor, Near Post Office, Opposite Tip Top Sweet, Thane Station, Thane West",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400602",
+        "addressCountry": "IN"
+      },
+      "telephone": "+919833826366",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "10:00",
+          "closes": "21:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Sunday"],
+          "opens": "10:00",
+          "closes": "14:00"
+        }
+      ]
+    }
+    </script>
   </head>
   <body>
     <div id="root"></div>
+
+    <!-- Hidden Google Translate Element -->
+    <div id="google_translate_element" style="display:none;"></div>
+    
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        if (window.google && window.google.translate) {
+          new window.google.translate.TranslateElement({
+            pageLanguage: 'hi',
+            includedLanguages: 'en,hi',
+            autoDisplay: false
+          }, 'google_translate_element');
+        }
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

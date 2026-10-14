@@ -1,43 +1,47 @@
 {
-  "description": "Umang Ayurvedic Clinic offers specialized, authentic Ayurvedic treatments for various health conditions, focusing on natural healing and long-term wellness.",
+  "description": "उमंग आयुर्वेदिक क्लिनिक (ठाणे) – सेक्स समस्याएं, खूनी व बादी बवासीर, फिस्टुला (भगंदर) और हड्डी में गैप व दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से सफल इलाज। लेजर की सुविधा भी उपलब्ध है।",
   "quickLinks": [
     {
-      "label": "Home",
+      "label": "होम",
       "path": "/"
     },
     {
-      "label": "About Us",
+      "label": "हमारे बारे में",
       "path": "/about"
     },
     {
-      "label": "Contact",
+      "label": "संपर्क करें",
       "path": "/contact"
     },
     {
-      "label": "Book Appointment",
+      "label": "अपॉइंटमेंट बुक करें",
       "path": "/appointment"
     }
   ],
   "treatments": [
     {
-      "label": "Sexual Health",
+      "label": "Sexual Health (यौन समस्याएं)",
       "path": "/sexual-health"
     },
     {
-      "label": "Piles Treatment",
+      "label": "Piles (बवासीर का इलाज)",
       "path": "/piles-treatment"
     },
     {
-      "label": "Bone & Joint Care",
+      "label": "Fistula (भगंदर का इलाज)",
+      "path": "/fistula-treatment"
+    },
+    {
+      "label": "Sciatica & Bones (हड्डी में गैप)",
       "path": "/bone-joint-care"
     }
   ],
   "contact": {
-    "phone": "+91 9999999999",
-    "whatsapp": "+91 9999999999",
+    "phone": "98338 26366 / 8652674047",
+    "whatsapp": "+91 98338 26366",
     "email": "info@umangayurvedic.com",
-    "address": "Siddharth Tower, Office No. 101, 1st Floor, Near Post Office, Oposit Tip Top Sweet, Thane Station, Thane (west) 400602, Maharashtra",
-    "hours": "Mon-Sat: 10:00 AM - 8:00 PM"
+    "address": "ऑफिस नं. 101, पहली मंजिल, सिद्धार्थ टॉवर, पोस्ट ऑफिस के पास, टिप टॉप स्वीट के सामने, ठाणे स्टेशन, ठाणे (पश्चिम) 400602, महाराष्ट्र",
+    "hours": "सोमवार - शनिवार: सुबह 10 AM से रात 9 PM | रविवार: सुबह 10 AM से दोपहर 2 PM"
   },
-  "copyright": "© 2026 Umang Ayurvedic Clinic. All rights reserved."
+  "copyright": "© 2026 Umang Ayurvedic Clinic (उमंग आयुर्वेदिक क्लिनिक). All rights reserved."
 }

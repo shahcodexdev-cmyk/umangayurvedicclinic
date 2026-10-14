@@ -8,7 +8,11 @@ import { CheckCircle2 } from 'lucide-react';
 const About = () => {
   return (
     <>
-      <SEO title="About Us | Umang Ayurvedic Clinic" description={aboutData.hero.description} />
+      <SEO 
+        title="हमारे बारे में | About Umang Ayurvedic Clinic Thane"
+        description="उमंग आयुर्वेदिक क्लिनिक ठाणे - 20+ वर्षों के अनुभवी विशेषज्ञ डॉक्टर्स द्वारा सेक्स, बवासीर, भगंदर और साइटिका का प्रामाणिक व सुरक्षित आयुर्वेदिक इलाज। About Umang Clinic."
+        keywords="About Umang Ayurvedic Clinic, Ayurvedic Doctor Thane, Experienced Ayurvedic Specialists, आयुर्वेदिक डॉक्टर ठाणे, उमंग क्लिनिक परिचय"
+      />
       
       {/* Hero */}
       <section className="bg-primary-dark text-white py-20">
@@ -67,7 +71,7 @@ const About = () => {
         </div>
       </section>
 
-      {/* Practitioner */}
+      {/* Experienced Medical Team */}
       <section className="py-20 bg-white">
         <div className="container-custom">
           <div className="flex flex-col md:flex-row items-center gap-12 max-w-5xl mx-auto bg-muted rounded-3xl p-8 md:p-12">
@@ -78,17 +82,20 @@ const About = () => {
                 className="rounded-2xl shadow-lg w-full aspect-square object-cover"
                 onError={(e) => {
                   e.target.onerror = null;
-                  e.target.src = 'https://via.placeholder.com/400x400?text=Doctor';
+                  e.target.src = 'https://via.placeholder.com/400x400?text=Clinic+Facility';
                 }}
               />
             </div>
             <div className="md:w-2/3">
+              <span className="inline-block px-3.5 py-1 bg-primary text-white text-xs font-bold rounded-full mb-3 uppercase tracking-wider">
+                विशेषज्ञ चिकित्सा टीम
+              </span>
               <h2 className="text-3xl font-bold text-primary mb-2">{aboutData.practitioner.name}</h2>
-              {aboutData.practitioner.qualification && (
-                <p className="text-secondary font-semibold text-lg mb-1">{aboutData.practitioner.qualification}</p>
+              {aboutData.practitioner.role && (
+                <p className="text-secondary font-semibold text-lg mb-1">{aboutData.practitioner.role}</p>
               )}
               {aboutData.practitioner.experience && (
-                <p className="text-gray-500 mb-6">{aboutData.practitioner.experience}</p>
+                <p className="text-gray-600 mb-6 font-medium">{aboutData.practitioner.experience}</p>
               )}
               <p className="text-gray-700 text-lg leading-relaxed">
                 {aboutData.practitioner.description}

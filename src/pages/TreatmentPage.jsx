@@ -9,9 +9,29 @@ import SEO from '../components/SEO';
 const TreatmentPage = ({ data }) => {
   if (!data) return null;
 
+  const getKeywordsForSlug = (slug) => {
+    if (slug === 'piles-treatment') {
+      return 'Piles treatment Thane, Laser piles, Hemorrhoids cure Ayurveda, Anal fissure, बवासीर का इलाज, खूनी बवासीर, लेजर सुविधा, 9833826366';
+    }
+    if (slug === 'fistula-treatment') {
+      return 'Fistula treatment Thane, Bhagandar cure, Fistula in ano ayurvedic unani, भगंदर का इलाज, फिस्टुला में राहत, पुराना फिस्टुला, 9833826366';
+    }
+    if (slug === 'sexual-health') {
+      return 'Sexual health clinic Thane, Premature ejaculation, Erectile dysfunction cure, कमजोरी, नपुंसकता, शीघ्रपतन, वैवाहिक समस्याएं, 9833826366';
+    }
+    if (slug === 'bone-joint-care') {
+      return 'Sciatica treatment Thane, Bone gap ayurveda, Pinched nerve cure, हड्डी में गैप, दबी नस, साइटिका, कमर दर्द, घुटनों का दर्द, 9833826366';
+    }
+    return 'Ayurvedic treatments, Umang Clinic, Thane Ayurveda';
+  };
+
   return (
     <>
-      <SEO title={data.seo?.title || data.page.title} description={data.seo?.description || data.page.description} />
+      <SEO 
+        title={data.seo?.title || data.page.title} 
+        description={data.seo?.description || data.page.description} 
+        keywords={getKeywordsForSlug(data.page.slug)}
+      />
       
       {/* Hero */}
       <section className="relative bg-primary-dark pt-24 pb-32 overflow-hidden">

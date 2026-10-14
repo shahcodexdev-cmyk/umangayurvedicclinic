@@ -1,35 +1,71 @@
 {
   "page": {
-    "title": "Our Treatments",
-    "description": "We specialize in providing authentic Ayurvedic care for complex health conditions. Explore our specialized treatment areas below."
+    "title": "हमारी मुख्य उपचार सेवाएं",
+    "subtitle": "For – Sex | Piles | Fistula | Bones",
+    "description": "उमंग आयुर्वेदिक क्लिनिक में सेक्स समस्याएं, बवासीर, फिस्टुला (भगंदर) और हड्डी में गैप व दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से सफल इलाज किया जाता है।"
   },
   "items": [
     {
       "id": "sexual-health",
-      "title": "Sexual Health",
-      "description": "Comprehensive Ayurvedic consultation and care for sexual health concerns, focusing on restoring vitality and confidence through natural therapies.",
-      "shortDescription": "Ayurvedic consultation and care for sexual health and vitality.",
+      "title": "Sexual Health (यौन समस्याएं)",
+      "badge": "100% गोपनीय परामर्श",
+      "description": "कमज़ोरी, नपुंसकता, शीघ्रपतन और वैवाहिक समस्याओं का आयुर्वेदिक और यूनानी दवाओं से बिना किसी साइड इफेक्ट के सफल इलाज।",
+      "shortDescription": "कमज़ोरी, नपुंसकता, शीघ्रपतन और वैवाहिक समस्याओं का सुरक्षित इलाज।",
       "image": "/images/treatment/sexual.png",
       "icon": "Activity",
-      "path": "/sexual-health"
+      "path": "/sexual-health",
+      "highlights": [
+        "कमज़ोरी",
+        "नपुंसकता",
+        "शीघ्रपतन",
+        "वैवाहिक समस्याएँ"
+      ]
     },
     {
       "id": "piles-treatment",
-      "title": "Piles Treatment",
-      "description": "Effective and natural Ayurvedic approaches for the management and relief of piles (hemorrhoids), addressing both symptoms and root causes.",
-      "shortDescription": "Natural Ayurvedic approaches for the management and relief of piles.",
+      "title": "Piles (बवासीर का इलाज)",
+      "badge": "लेजर की सुविधा उपलब्ध",
+      "description": "खूनी बवासीर, बादी बवासीर, दर्द और सूजन से तुरंत राहत। क्लिनिक में लेजर की सुविधा भी उपलब्ध है ताकि बिना चीर-फाड़ राहत मिले।",
+      "shortDescription": "खूनी बवासीर, दर्द और सूजन से राहत। लेजर सुविधा उपलब्ध।",
       "image": "/images/treatment/piles.png",
       "icon": "CircleDot",
-      "path": "/piles-treatment"
+      "path": "/piles-treatment",
+      "highlights": [
+        "खूनी बवासीर",
+        "दर्द व सूजन में राहत",
+        "लेजर की सुविधा उपलब्ध है"
+      ]
+    },
+    {
+      "id": "fistula-treatment",
+      "title": "Fistula (भगंदर का पक्का इलाज)",
+      "badge": "पुराने फिस्टुला का उपचार",
+      "description": "भगंदर (फिस्टुला) में मवाद, दर्द और जलन से राहत। सालों पुराने और बार-बार होने वाले फिस्टुला का आयुर्वेदिक व क्षारसूत्र पद्धति से जड़ से इलाज।",
+      "shortDescription": "भगंदर और लंबे समय से चले आ रहे फिस्टुला का सफल आयुर्वेदिक उपचार।",
+      "image": "/images/treatment/fistula.png",
+      "icon": "Target",
+      "path": "/fistula-treatment",
+      "highlights": [
+        "भगंदर का इलाज",
+        "फिस्टुला में राहत",
+        "लंबे समय से चले आ रहे फिस्टुला का उपचार"
+      ]
     },
     {
       "id": "bone-joint-care",
-      "title": "Bone & Joint Care",
-      "description": "Holistic treatments for joint pain, arthritis, and bone health, utilizing traditional Ayurvedic therapies to improve mobility and reduce discomfort.",
-      "shortDescription": "Holistic treatments for joint pain, arthritis, and bone health.",
+      "title": "Sciatica & Bones (हड्डी में गैप व दबी नस)",
+      "badge": "आयुर्वेदिक व यूनानी इलाज",
+      "description": "हड्डी में गैप और दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से इलाज मुमकिन है। कमर दर्द, घुटनों का दर्द और जोड़ों की सूजन में पक्का आराम।",
+      "shortDescription": "हड्डी में गैप और दबी नस (Sciatica) का सफल इलाज मुमकिन है।",
       "image": "/images/treatment/bones.png",
       "icon": "Bone",
-      "path": "/bone-joint-care"
+      "path": "/bone-joint-care",
+      "highlights": [
+        "हड्डी में गैप का इलाज",
+        "दबी नस (Sciatica) में राहत",
+        "आयुर्वेदिक और यूनानी दवाओं से इलाज",
+        "कमर व जोड़ों के दर्द में आराम"
+      ]
     }
   ]
 }

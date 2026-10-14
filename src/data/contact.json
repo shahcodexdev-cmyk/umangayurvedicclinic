@@ -1,30 +1,31 @@
 {
   "hero": {
-    "title": "Contact Us",
-    "description": "We are here to answer your questions and guide you on your journey to natural health."
+    "title": "हमसे संपर्क करें (Contact Us)",
+    "description": "अपनी सेहत से जुड़े किसी भी सवाल के लिए या डॉक्टर से मिलने के लिए सीधे फोन या WhatsApp करें।"
   },
   "contactCards": [
     {
       "type": "phone",
-      "title": "Call Us",
-      "value": "+91 9999999999",
-      "action": "tel:+919999999999"
+      "title": "कॉल करें (Contact No.)",
+      "value": "98338 26366 / 8652674047",
+      "action": "tel:+919833826366"
     },
     {
       "type": "whatsapp",
-      "title": "WhatsApp",
-      "value": "+91 9999999999",
-      "action": "https://wa.me/919999999999"
+      "title": "WhatsApp पर बात करें",
+      "value": "+91 98338 26366",
+      "action": "https://wa.me/919833826366"
     },
     {
       "type": "email",
-      "title": "Email Us",
+      "title": "ईमेल करें (Email)",
       "value": "info@umangayurvedic.com",
       "action": "mailto:info@umangayurvedic.com"
     }
   ],
-  "address": "Siddharth Tower, Office No. 101, 1st Floor, Near Post Office, Oposit Tip Top Sweet, Thane Station, Thane (west) 400602, Maharashtra",
-  "openingHours": "Monday to Saturday: 10:00 AM - 8:00 PM\nSunday: Closed",
+  "address": "ऑफिस नं. 101, पहली मंजिल, सिद्धार्थ टॉवर, पोस्ट ऑफिस के पास, टिप टॉप स्वीट के सामने, ठाणे स्टेशन, ठाणे (पश्चिम) 400602, महाराष्ट्र",
+  "openingHours": "Monday to Saturday: Mor. 10 AM to Eve. 9 PM\nSunday: Mor. 10 AM to 2 PM",
+  "openingHoursHindi": "सोमवार से शनिवार: सुबह 10:00 AM से रात 9:00 PM\nरविवार: सुबह 10:00 AM से दोपहर 2:00 PM",
   "map": {
     "enabled": false,
     "embedUrl": ""

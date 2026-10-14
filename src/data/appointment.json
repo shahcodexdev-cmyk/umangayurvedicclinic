@@ -1,41 +1,41 @@
 {
   "hero": {
-    "title": "Book an Appointment",
-    "description": "Schedule a consultation with our Ayurvedic experts. Please fill out the form below, and we will confirm your appointment."
+    "title": "डॉक्टर से मिलने का समय (Appointment) बुक करें",
+    "description": "अपनी सुविधानुसार दिन और समय चुनें। फॉर्म भरते ही सीधे WhatsApp पर डॉक्टर से बात करके अपना समय पक्का करें।"
   },
   "form": {
-    "title": "Consultation Request",
-    "description": "Fill in your details to book a consultation via WhatsApp.",
+    "title": "अपॉइंटमेंट फॉर्म",
+    "description": "अपनी जानकारी भरें और WhatsApp पर तुरंत समय बुक करें।",
     "fields": {
       "name": {
-        "label": "Full Name",
-        "placeholder": "Enter your full name"
+        "label": "आपका नाम",
+        "placeholder": "अपना नाम लिखें"
       },
       "mobile": {
-        "label": "Mobile Number",
-        "placeholder": "Enter your 10-digit mobile number"
+        "label": "मोबाइल नंबर",
+        "placeholder": "10 अंकों का मोबाइल नंबर दर्ज करें"
       },
       "treatment": {
-        "label": "Select Treatment Area",
-        "placeholder": "Select an option"
+        "label": "बीमारी / तकलीफ चुनें",
+        "placeholder": "एक बीमारी चुनें"
       },
       "date": {
-        "label": "Preferred Date"
+        "label": "किस दिन मिलना चाहते हैं?"
       },
       "time": {
-        "label": "Preferred Time"
+        "label": "किस समय आना चाहते हैं?"
       },
       "message": {
-        "label": "Your Concern (Optional)",
-        "placeholder": "Briefly describe your health concern"
+        "label": "तकलीफ के बारे में कुछ बताना चाहें (वैकल्पिक)",
+        "placeholder": "अपनी परेशानी के बारे में संक्षेप में लिखें"
       }
     },
-    "submitButton": "Book Appointment on WhatsApp"
+    "submitButton": "WhatsApp पर अपॉइंटमेंट पक्का करें"
   },
-  "successMessage": "Redirecting to WhatsApp to complete your booking...",
+  "successMessage": "WhatsApp खोला जा रहा है...",
   "validationMessages": {
-    "required": "This field is required",
-    "invalidMobile": "Please enter a valid 10-digit mobile number",
-    "invalidDate": "Please select a future date"
+    "required": "यह जानकारी भरना जरूरी है",
+    "invalidMobile": "कृपया सही 10 अंकों का मोबाइल नंबर लिखें",
+    "invalidDate": "कृपया आगे की कोई सही तारीख चुनें"
   }
 }

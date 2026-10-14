@@ -10,6 +10,7 @@ import NotFound from '../pages/NotFound';
 
 import sexualHealthData from '../data/sexual-health.json';
 import pilesData from '../data/piles-treatment.json';
+import fistulaData from '../data/fistula-treatment.json';
 import boneJointData from '../data/bone-joint-care.json';
 
 const AppRoutes = () => {
@@ -20,6 +21,7 @@ const AppRoutes = () => {
       <Route path="/treatments" element={<Treatments />} />
       <Route path="/sexual-health" element={<TreatmentPage data={sexualHealthData} />} />
       <Route path="/piles-treatment" element={<TreatmentPage data={pilesData} />} />
+      <Route path="/fistula-treatment" element={<TreatmentPage data={fistulaData} />} />
       <Route path="/bone-joint-care" element={<TreatmentPage data={boneJointData} />} />
       <Route path="/appointment" element={<Appointment />} />
       <Route path="/contact" element={<Contact />} />

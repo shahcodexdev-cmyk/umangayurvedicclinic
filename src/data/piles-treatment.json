@@ -1,85 +1,90 @@
 {
   "page": {
     "slug": "piles-treatment",
-    "title": "Ayurvedic Piles Treatment",
-    "subtitle": "Natural and effective care for Piles (Arsha).",
-    "description": "Comprehensive Ayurvedic management for piles, fissures, and fistulas, aiming for relief and long-term digestive health.",
+    "title": "Piles Treatment (बवासीर का इलाज)",
+    "subtitle": "खूनी व बादी बवासीर, दर्द और सूजन से राहत | लेजर की सुविधा उपलब्ध है",
+    "description": "अगर आपको शौच के समय खून आता है, दर्द, जलन या मस्से हैं, तो घबराएं नहीं। हमारे क्लिनिक में आयुर्वेदिक दवाओं और आधुनिक लेजर की सुविधा से बवासीर का पक्का इलाज किया जाता है।",
     "heroImage": "/images/treatment-pages-banner/banner.png"
   },
   "introduction": {
-    "title": "Understanding Piles (Arsha) in Ayurveda",
-    "description": "Ayurveda views piles (Arsha) primarily as a result of poor dietary habits, sedentary lifestyle, and impaired digestion (Mandagni), leading to constipation and the accumulation of toxins. Our treatment focuses on correcting digestion and shrinking the hemorrhoidal mass naturally.",
-    "image": "/images/specific-pages/specific-pages.png"
+    "title": "बवासीर (Piles) की तकलीफ से डरें नहीं, सही इलाज कराएं",
+    "description": "पुरानी कब्ज, घंटों बैठकर काम करना और तला-भुना खाने से गुदा (anus) की नसों में सूजन आ जाती है, जिसे बवासीर कहते हैं। समय पर इलाज न कराने से मस्से बाहर आने लगते हैं और खून बहने लगता है। हमारे यहाँ बिना किसी तकलीफ के दवाओं और आधुनिक लेजर से मस्से सुखाने का सुरक्षित इलाज किया जाता है।",
+    "image": "/images/treatment/piles.png"
   },
   "concerns": {
-    "title": "Conditions We Manage",
-    "description": "We offer Ayurvedic care for:",
+    "title": "किन लक्षणों और तकलीफों में राहत मिलती है?",
+    "description": "हम इन सभी समस्याओं का असरदार इलाज करते हैं:",
     "items": [
-      "Bleeding and Non-bleeding Piles",
-      "Anal Fissures",
-      "Chronic Constipation leading to Piles",
-      "Digestive Disorders"
+      "खूनी बवासीर (मलत्याग के दौरान तेज खून या बूंद-बूंद टपकना)",
+      "बादी बवासीर (गुदा द्वार पर मस्से, भारीपन और खुजली)",
+      "दर्द व सूजन में तुरंत राहत (बैठने या चलने में होने वाला असहनीय दर्द)",
+      "(लेजर की सुविधा उपलब्ध है) – बिना चीर-फाड़ आधुनिक लेजर तकनीक",
+      "गुदा में चीरा लगना (Fissure) और जलन",
+      "पुरानी कब्ज (पेट साफ न होना और सख्त मल आना)"
     ]
   },
   "approach": {
-    "title": "Our Treatment Approach",
-    "description": "We employ a multi-faceted approach to manage piles effectively:",
+    "title": "हमारा इलाज का तरीका",
+    "description": "मरीज की स्थिति के अनुसार सबसे सुरक्षित और आसान तरीका चुना जाता है:",
     "items": [
       {
-        "title": "Digestive Correction",
-        "description": "Herbal medicines to improve digestion (Agni) and relieve constipation."
+        "title": "आयुर्वेदिक व यूनानी दवाएं",
+        "description": "पेट साफ करने, सूजन घटाने और मस्सों को प्राकृतिक रूप से सुखाने वाली खास औषधियां।"
       },
       {
-        "title": "Local Applications",
-        "description": "Soothing Ayurvedic ointments and oils for local relief from pain and itching."
+        "title": "लेजर ट्रीटमेंट की सुविधा उपलब्ध",
+        "description": "जिन मरीजों को तुरंत और बिना टांकों के आराम चाहिए, उनके लिए आधुनिक लेजर तकनीक की सुविधा उपलब्ध है।"
       },
       {
-        "title": "Dietary Guidelines",
-        "description": "Specific diet plans rich in fiber and tailored to your dosha to prevent recurrence."
+        "title": "दर्द व सूजन रोधी मलहम व सिट्ज़ बाथ",
+        "description": "गर्म पानी में बैठकर सिकाई और खास आयुर्वेदिक तेल लगाने से पहली खुराक से ही दर्द में आराम मिलता है।"
       }
     ]
   },
   "process": {
-    "title": "Consultation Process",
+    "title": "इलाज कैसे शुरू करें?",
     "steps": [
       {
-        "title": "Detailed Assessment",
-        "description": "Understanding your symptoms, dietary habits, and lifestyle."
+        "step": "01",
+        "title": "समय तय करें",
+        "description": "9833826366 या 8652674047 पर फोन करें या WhatsApp मैसेज भेजें।"
       },
       {
-        "title": "Root Cause Analysis",
-        "description": "Identifying the underlying digestive issues and dosha imbalances."
+        "step": "02",
+        "title": "डॉक्टर से चेकअप कराएं",
+        "description": "क्लिनिक पर आकर अपनी समस्या दिखाएं और सही स्टेज समझें।"
       },
       {
-        "title": "Holistic Plan",
-        "description": "Prescribing internal medicines, local applications, and a strict diet chart."
+        "step": "03",
+        "title": "दवा या लेजर से तुरंत आराम",
+        "description": "डॉक्टर की सलाह पर दवा या लेजर प्रक्रिया द्वारा बवासीर से स्थायी छुटकारा पाएं।"
       }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "अक्सर पूछे जाने वाले सवाल (FAQ)",
     "items": [
       {
-        "question": "Do I need surgery for piles?",
-        "answer": "Many early-stage piles can be effectively managed with Ayurvedic medicines, diet, and lifestyle changes without surgery. Our doctors will assess your condition and advise accordingly."
+        "question": "क्या बवासीर के लिए बड़ा ऑपरेशन जरूरी है?",
+        "answer": "नहीं, ज्यादातर मामलों में आयुर्वेदिक दवाओं या आधुनिक लेजर से बिना किसी बड़े ऑपरेशन या दर्द के मस्से पूरी तरह सूख जाते हैं।"
       },
       {
-        "question": "What kind of diet should I follow?",
-        "answer": "A diet high in fiber, adequate hydration, and avoiding spicy, processed, and heavy foods is generally recommended."
+        "question": "खूनी बवासीर में कितने दिन में खून आना बंद होता है?",
+        "answer": "दवा शुरू करने के 2 से 4 दिनों के अंदर ही खून आना और जलन बंद हो जाती है।"
       },
       {
-        "question": "Is the Ayurvedic treatment painful?",
-        "answer": "The medical management of piles using oral herbs and local applications is painless and soothing."
+        "question": "क्या बवासीर दोबारा हो सकती है?",
+        "answer": "अगर आप हमारे बताए अनुसार खान-पान में फाइबर लेंगे और कब्ज नहीं होने देंगे, तो यह बीमारी कभी दोबारा नहीं लौटती।"
       }
     ]
   },
   "cta": {
-    "title": "Get Relief from Piles Naturally",
-    "description": "Book a consultation to start your personalized Ayurvedic treatment plan.",
-    "button": "Book Appointment"
+    "title": "बवासीर के दर्द को और न सहें",
+    "description": "आज ही उमंग क्लिनिक में डॉक्टर से मिलें और राहत पाएं।",
+    "button": "अपॉइंटमेंट बुक करें"
   },
   "seo": {
-    "title": "Piles Treatment | Umang Ayurvedic Clinic",
-    "description": "Effective Ayurvedic treatment and management for piles (hemorrhoids) and digestive health."
+    "title": "बवासीर का इलाज | Piles Treatment in Thane | Umang Ayurvedic Clinic",
+    "description": "खूनी बवासीर, दर्द व सूजन में राहत। लेजर की सुविधा उपलब्ध है। उमंग आयुर्वेदिक क्लिनिक ठाणे (पश्चिम). Call: 9833826366."
   }
 }

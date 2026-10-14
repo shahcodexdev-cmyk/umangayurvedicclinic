@@ -1,17 +1,17 @@
 {
   "buttons": {
-    "bookAppointment": "Book Appointment",
-    "whatsapp": "WhatsApp Us",
-    "callNow": "Call Now",
-    "learnMore": "Learn More",
-    "exploreTreatment": "Explore Treatment",
-    "contactUs": "Contact Us",
-    "viewTreatments": "View Treatments",
-    "bookOnWhatsApp": "Book on WhatsApp"
+    "bookAppointment": "अपॉइंटमेंट बुक करें",
+    "whatsapp": "व्हाट्सएप पर बात करें",
+    "callNow": "कॉल करें",
+    "learnMore": "और अधिक जानें",
+    "exploreTreatment": "उपचार विस्तार से देखें",
+    "contactUs": "हमसे संपर्क करें",
+    "viewTreatments": "सभी उपचार देखें",
+    "bookOnWhatsApp": "व्हाट्सएप पर अपॉइंटमेंट बुक करें"
   },
   "labels": {
-    "readMore": "Read More",
-    "sendMessage": "Send Message",
-    "submit": "Submit"
+    "readMore": "विस्तार से पढ़ें",
+    "sendMessage": "संदेश भेजें",
+    "submit": "जमा करें"
   }
 }

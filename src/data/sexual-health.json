@@ -1,85 +1,87 @@
 {
   "page": {
     "slug": "sexual-health",
-    "title": "Sexual Health Consultation",
-    "subtitle": "Ayurvedic approach to restoring vitality and wellness.",
-    "description": "We offer discreet, professional, and holistic Ayurvedic care for various sexual health concerns.",
+    "title": "Sexual Health (यौन समस्याएं एवं कमजोरी)",
+    "subtitle": "कमज़ोरी, नपुंसकता, शीघ्रपतन और वैवाहिक समस्याओं का पक्का समाधान",
+    "description": "अगर आप शारीरिक कमजोरी, तनाव, शीघ्रपतन या वैवाहिक जीवन में किसी भी परेशानी से जूझ रहे हैं, तो बिना किसी झिझक के हमारे डॉक्टर से 100% गोपनीय परामर्श लें।",
     "heroImage": "/images/treatment-pages-banner/banner.png"
   },
   "introduction": {
-    "title": "Understanding Sexual Health in Ayurveda",
-    "description": "In Ayurveda, sexual wellness (Vajikarana) is considered essential for a healthy and balanced life. Our treatments focus on nourishing the reproductive tissues, balancing the doshas, and improving overall vitality without the use of harmful chemicals.",
-    "image": "/images/specific-pages/specific-pages.png"
+    "title": "सेक्स समस्याओं को नजरअंदाज न करें",
+    "description": "आजकल भागदौड़ भरी जिंदगी, ज्यादा तनाव, गलत खानपान और नींद की कमी से पुरुषों और महिलाओं में शारीरिक कमजोरी और सेक्स से जुड़ी परेशानियां आम हो गई हैं। उमंग आयुर्वेदिक क्लिनिक में हम आयुर्वेदिक और यूनानी दवाओं से शरीर की अंदरूनी ताकत को दोबारा लौटाते हैं, वो भी बिना किसी साइड इफेक्ट के।",
+    "image": "/images/treatment/sexual.png"
   },
   "concerns": {
-    "title": "Conditions We Consult For",
-    "description": "Our expert practitioners provide guidance and treatment plans for:",
+    "title": "किन-किन समस्याओं का इलाज किया जाता है?",
+    "description": "हमारे पास निम्नलिखित समस्याओं के लिए खास और असरदार इलाज मौजूद है:",
     "items": [
-      "Loss of Vitality and Stamina",
-      "Stress-related Performance Issues",
-      "General Weakness",
-      "Hormonal Imbalances"
+      "कमज़ोरी (शारीरिक व नस-नाड़ियों की कमजोरी, स्टैमिना में कमी)",
+      "नपुंसकता (इरेक्टाइल डिस्फंक्शन / तनाव न आना या न टिकना)",
+      "शीघ्रपतन (समय से पहले वीर्य गिर जाना / प्रीमैच्योर इजैकुलेशन)",
+      "वैवाहिक समस्याएँ (शादीशुदा जिंदगी में असंतुष्टि और आपसी तनाव)",
+      "धात रोग (पेशाब के साथ धात जाना) और नाइटफॉल की समस्या",
+      "शुक्राणु की कमी और वीर्य का पतलापन"
     ]
   },
   "approach": {
-    "title": "Our Ayurvedic Approach",
-    "description": "We believe in addressing the root cause of the issue through a comprehensive approach:",
+    "title": "हमारा इलाज का तरीका",
+    "description": "हम सिर्फ ऊपरी लक्षणों को नहीं, बल्कि अंदरूनी कमजोरी को ठीक करते हैं:",
     "items": [
       {
-        "title": "Herbal Formulations",
-        "description": "Customized Ayurvedic medicines to nourish tissues and improve circulation."
+        "title": "आयुर्वेदिक व यूनानी ताकतवर नुस्खे",
+        "description": "शिलाजीत, अश्वगंधा, सफेद मूसली, कौंच बीज और स्वर्ण भस्म युक्त खास जड़ी-बूटियों से नसों में नई जान आती है।"
       },
       {
-        "title": "Dietary Modifications",
-        "description": "Guidance on a Vajikarana diet that naturally supports reproductive health."
+        "title": "100% प्राइवेसी और सुरक्षा",
+        "description": "आपकी बीमारी और पहचान पूरी तरह गुप्त रखी जाती है। डॉक्टर से आमने-सामने अकेले में बात कर सकते हैं।"
       },
       {
-        "title": "Lifestyle Counseling",
-        "description": "Stress management techniques and daily routines to balance the mind and body."
+        "title": "सही डाइट और लाइफस्टाइल सलाह",
+        "description": "क्या खाएं, क्या न खाएं और तनाव कैसे कम करें, इसकी पूरी जानकारी दी जाती है ताकि असर हमेशा बना रहे।"
       }
     ]
   },
   "process": {
-    "title": "Consultation Process",
+    "title": "परामर्श की प्रक्रिया",
     "steps": [
       {
-        "title": "Private Consultation",
-        "description": "A one-on-one, confidential discussion about your health concerns."
+        "title": "गोपनीय अपॉइंटमेंट बुक करें",
+        "description": "9833826366 या 8652674047 पर कॉल या WhatsApp करके समय तय करें।"
       },
       {
-        "title": "Ayurvedic Diagnosis",
-        "description": "Understanding your body type (Prakriti) and dosha imbalances."
+        "title": "डॉक्टर से खुलकर चर्चा",
+        "description": "अपनी परेशानी और बीमारी की शुरुआत के बारे में डॉक्टर को बेझिझक बताएं।"
       },
       {
-        "title": "Treatment Plan",
-        "description": "A personalized plan including herbal supplements and lifestyle advice."
+        "title": "अनुकूलित दवा का कोर्स",
+        "description": "आपकी उम्र और समस्या के मुताबिक तैयार किया गया सुरक्षित दवा कोर्स शुरू करें।"
       }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "अक्सर पूछे जाने वाले सवाल (FAQ)",
     "items": [
       {
-        "question": "Is the consultation confidential?",
-        "answer": "Yes, maintaining your privacy and confidentiality is our highest priority."
+        "question": "क्या मेरी बात पूरी तरह गुप्त रखी जाएगी?",
+        "answer": "हाँ, आपकी सारी जानकारी 100% गोपनीय रखी जाती है। किसी तीसरे व्यक्ति को कुछ भी नहीं बताया जाता।"
       },
       {
-        "question": "Are Ayurvedic medicines safe for long-term use?",
-        "answer": "When prescribed by a qualified Ayurvedic doctor, these natural medicines are generally safe and focus on holistic healing."
+        "question": "क्या इन दवाओं का कोई साइड इफेक्ट होता है?",
+        "answer": "बिल्कुल नहीं। हमारे यहाँ शुद्ध हर्बल आयुर्वेदिक और यूनानी दवाएं दी जाती हैं, जिनकी आदत नहीं पड़ती और शरीर पर कोई नुकसान नहीं होता।"
       },
       {
-        "question": "How long does it take to see improvements?",
-        "answer": "Results vary depending on the individual and the chronicity of the condition. Ayurveda focuses on gradual, sustainable improvement."
+        "question": "कितने दिनों में आराम दिखना शुरू हो जाता है?",
+        "answer": "ज्यादातर मरीजों को 2 से 3 हफ्तों में साफ फर्क और ताकत का एहसास होने लगता है।"
       }
     ]
   },
   "cta": {
-    "title": "Take a Step Towards Better Health",
-    "description": "Schedule a confidential consultation with our experts today.",
-    "button": "Book Appointment"
+    "title": "खोई हुई ताकत और खुशहाल शादीशुदा जिंदगी वापस पाएं",
+    "description": "आज ही डॉक्टर से बात करें और सही इलाज शुरू करें।",
+    "button": "गोपनीय अपॉइंटमेंट बुक करें"
   },
   "seo": {
-    "title": "Sexual Health Clinic | Umang Ayurvedic Clinic",
-    "description": "Professional Ayurvedic consultation and care for sexual health concerns."
+    "title": "यौन स्वास्थ्य एवं कमजोरी का इलाज | Sexual Health Clinic Thane | Umang Clinic",
+    "description": "कमजोरी, नपुंसकता, शीघ्रपतन और वैवाहिक समस्याओं का 100% गोपनीय आयुर्वेदिक व यूनानी इलाज। कॉल करें: 9833826366."
   }
 }

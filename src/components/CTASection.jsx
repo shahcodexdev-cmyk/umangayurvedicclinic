@@ -28,8 +28,8 @@ const CTASection = ({ title, description, buttonText, buttonPath }) => {
             <Button to={buttonPath || '/appointment'} variant="secondary" className="text-lg px-8 py-4">
               {buttonText || 'Book Appointment'}
             </Button>
-            <Button href="tel:+919999999999" variant="outline" className="text-lg px-8 py-4 border-white text-white hover:bg-white hover:text-primary">
-              Call Now
+            <Button href="tel:+919833826366" variant="outline" className="text-lg px-8 py-4 border-white text-white hover:bg-white hover:text-primary">
+              कॉल करें: 98338 26366
             </Button>
           </div>
         </div>
