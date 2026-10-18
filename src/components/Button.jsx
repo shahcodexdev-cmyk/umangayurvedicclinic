@@ -15,7 +15,7 @@ const Button = ({ children, variant = 'primary', className = '', href, to, onCli
 
   if (to) {
     return (
-      <Link to={to} className={classes} {...props}>
+      <Link to={to} onClick={onClick} className={classes} {...props}>
         {children}
       </Link>
     );
@@ -23,7 +23,7 @@ const Button = ({ children, variant = 'primary', className = '', href, to, onCli
 
   if (href) {
     return (
-      <a href={href} className={classes} {...props}>
+      <a href={href} onClick={onClick} className={classes} {...props}>
         {children}
       </a>
     );

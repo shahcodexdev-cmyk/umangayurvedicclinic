@@ -25,6 +25,11 @@ const Header = () => {
     checkLang();
   }, []);
 
+  // Automatically close mobile menu whenever navigation/route changes
+  useEffect(() => {
+    setIsMobileMenuOpen(false);
+  }, [location.pathname]);
+
   const toggleLanguage = () => {
     if (currentLang === 'hi') {
       // Translate to English
@@ -73,13 +78,24 @@ const Header = () => {
             <span className="bg-secondary/20 text-secondary-light font-bold text-xs px-2.5 py-0.5 rounded">
               {siteData.clinic.office || 'Office No. 101'}
             </span>
-            <a 
-              href={`tel:+919833826366`} 
-              className="flex items-center hover:text-secondary-light transition-colors font-medium"
-            >
-              <Phone size={13} className="mr-1.5 text-secondary" />
-              <span>{siteData.contact.phoneDisplay || siteData.contact.phone}</span>
-            </a>
+            <div className="flex items-center space-x-1.5 text-xs md:text-sm font-medium">
+              <Phone size={13} className="text-secondary flex-shrink-0 mr-0.5" />
+              <a 
+                href="tel:+919833826366" 
+                className="hover:text-secondary-light hover:underline transition-colors"
+                title="Call 98338 26366"
+              >
+                98338 26366
+              </a>
+              <span className="text-white/60">/</span>
+              <a 
+                href="tel:+918652674047" 
+                className="hover:text-secondary-light hover:underline transition-colors"
+                title="Call 8652674047"
+              >
+                8652674047
+              </a>
+            </div>
             <span className="text-gray-200 hidden xl:inline text-xs border-l border-white/20 pl-4">
               सोम - शनि: 10 AM - 9 PM | रवि: 10 AM - 2 PM
             </span>
@@ -244,9 +260,21 @@ const Header = () => {
             ))}
             
             <div className="pt-2">
-              <Button to={navData.cta.path} variant="primary" className="w-full text-center">
+              <Button 
+                to={navData.cta.path} 
+                variant="primary" 
+                className="w-full text-center"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
                 {navData.cta.label}
               </Button>
+            </div>
+
+            <div className="pt-2 flex items-center justify-center gap-2 text-sm font-bold text-gray-700">
+              <Phone size={14} className="text-primary" />
+              <a href="tel:+919833826366" className="text-primary hover:underline">98338 26366</a>
+              <span className="text-gray-300">/</span>
+              <a href="tel:+918652674047" className="text-primary hover:underline">8652674047</a>
             </div>
           </div>
         </div>

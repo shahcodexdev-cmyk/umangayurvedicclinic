@@ -85,9 +85,23 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3 text-sm text-gray-300">
                 <Phone size={18} className="flex-shrink-0 text-secondary" />
-                <a href={`tel:${footerData.contact.phone.replace(/[^0-9+]/g, '')}`} className="hover:text-white">
-                  {footerData.contact.phone}
-                </a>
+                <div className="flex items-center space-x-1.5 font-medium">
+                  <a 
+                    href="tel:+919833826366" 
+                    className="hover:text-white hover:underline transition-colors"
+                    title="Call 98338 26366"
+                  >
+                    98338 26366
+                  </a>
+                  <span className="text-gray-400">/</span>
+                  <a 
+                    href="tel:+918652674047" 
+                    className="hover:text-white hover:underline transition-colors"
+                    title="Call 8652674047"
+                  >
+                    8652674047
+                  </a>
+                </div>
               </li>
               <li className="flex items-center space-x-3 text-sm text-gray-300">
                 <Mail size={18} className="flex-shrink-0 text-secondary" />
