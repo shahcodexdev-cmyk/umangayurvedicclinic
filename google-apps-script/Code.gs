@@ -17,7 +17,7 @@
  */
 
 // CHANGE THIS TO YOUR CLINIC EMAIL ADDRESS
-var RECIPIENT_EMAIL = "info@umangayurvedic.com"; // e.g. "yourclinic@gmail.com"
+var RECIPIENT_EMAIL = "umangayurvedicclinicthane@gmail.com"; // e.g. "yourclinic@gmail.com"
 var CLINIC_NAME = "Umang Ayurvedic Clinic";
 var CLINIC_PHONE = "98338 26366 / 8652674047";
 var CLINIC_ADDRESS = "Office No. 101, 1st Floor, Siddharth Tower, Thane Station (West), Maharashtra";

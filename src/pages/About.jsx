@@ -9,9 +9,10 @@ const About = () => {
   return (
     <>
       <SEO 
-        title="हमारे बारे में | About Umang Ayurvedic Clinic Thane"
-        description="उमंग आयुर्वेदिक क्लिनिक ठाणे - 20+ वर्षों के अनुभवी विशेषज्ञ डॉक्टर्स द्वारा सेक्स, बवासीर, भगंदर और साइटिका का प्रामाणिक व सुरक्षित आयुर्वेदिक इलाज। About Umang Clinic."
-        keywords="About Umang Ayurvedic Clinic, Ayurvedic Doctor Thane, Experienced Ayurvedic Specialists, आयुर्वेदिक डॉक्टर ठाणे, उमंग क्लिनिक परिचय"
+        title="About Us | Umang Ayurvedic Clinic Thane | 20+ Years Trusted Care"
+        description="Learn about Umang Ayurvedic Clinic - trusted Ayurvedic center in Thane West near Thane Station. 20+ years experience in treating Piles, Sexual Health, Fistula & Joint pain."
+        keywords="about umang ayurvedic, umang ayurvedic clinic thane, ayurvedic in thane, best ayurvedic doctor in thane, ayurvedic clinic thane west, experienced ayurvedic doctor thane, उमंग आयुर्वेदिक क्लिनिक ठाणे"
+        canonical="https://umangayurvedicclinic.vercel.app/about"
       />
       
       {/* Hero */}

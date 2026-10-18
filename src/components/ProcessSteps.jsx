@@ -3,13 +3,23 @@ import React from 'react';
 const ProcessSteps = ({ steps }) => {
   if (!steps || steps.length === 0) return null;
 
+  const count = steps.length;
+  const gridClasses = 
+    count === 3 
+      ? 'grid-cols-1 md:grid-cols-3 max-w-5xl mx-auto' 
+      : count === 2 
+      ? 'grid-cols-1 md:grid-cols-2 max-w-3xl mx-auto'
+      : count === 1
+      ? 'grid-cols-1 max-w-md mx-auto'
+      : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto';
+
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+    <div className={`grid ${gridClasses} gap-8 justify-center`}>
       {steps.map((step, index) => (
         <div key={index} className="relative group">
           {/* Connector Line (Desktop only) */}
           {index < steps.length - 1 && (
-            <div className="hidden lg:block absolute top-8 left-1/2 w-full h-0.5 bg-gray-200">
+            <div className={`hidden ${count === 3 ? 'md:block' : 'lg:block'} absolute top-8 left-1/2 w-full h-0.5 bg-gray-200`}>
               <div className="h-full bg-secondary w-0 group-hover:w-full transition-all duration-700 ease-in-out" />
             </div>
           )}
@@ -19,7 +29,7 @@ const ProcessSteps = ({ steps }) => {
               {step.step || (index + 1).toString().padStart(2, '0')}
             </div>
             <h4 className="text-xl font-bold text-foreground mb-3">{step.title}</h4>
-            <p className="text-gray-600">{step.description}</p>
+            <p className="text-gray-600 leading-relaxed max-w-xs">{step.description}</p>
           </div>
         </div>
       ))}

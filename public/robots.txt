@@ -1,0 +1,8 @@
+# Robots.txt for Umang Ayurvedic Clinic (Thane)
+# https://umangayurvedicclinic.vercel.app
+
+User-agent: *
+Allow: /
+
+# Canonical XML Sitemap for search engines (Googlebot, Bingbot, Yahoo, DuckDuckGo)
+Sitemap: https://umangayurvedicclinic.vercel.app/sitemap.xml

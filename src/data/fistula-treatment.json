@@ -11,6 +11,43 @@
     "description": "भगंदर में गुदा के अंदर से लेकर बाहर की चमड़ी तक एक नली (tract) बन जाती है, जिससे लगातार मवाद, खून या बदबूदार पानी निकलता रहता है। कई बार मरीज बार-बार सर्जरी कराते हैं लेकिन फिस्टुला फिर लौट आता है। उमंग आयुर्वेदिक क्लिनिक में हम आयुर्वेदिक पद्धति और यूनानी दवाओं से फिस्टुला की नली को जड़ से सुखाकर स्थायी राहत देते हैं।",
     "image": "/images/treatment/fistula.png"
   },
+  "majorTypes": {
+    "title": "भगंदर के प्रमुख लक्षण एवं उपचार सेवाएं",
+    "items": [
+      {
+        "id": "fistula-discharge",
+        "title": "मवाद व पानी का रिसाव",
+        "subtitle": "गुदा के पास बार-बार फोड़ा",
+        "description": "गुदा के आसपास दर्द, सूजन, फोड़ा होना और लगातार मवाद या खून का रिसाव होना।",
+        "image": "/images/fistula/fistula-pain.jpg",
+        "prompt": "A clinical educational medical illustration: detailed anatomical cutaway diagram of the pelvic floor and anal fistula tract with clear internal and external openings, showing tissue inflammation without graphic vulgarity, high resolution medical textbook style, clean neutral scientific background with NO religious symbols"
+      },
+      {
+        "id": "fistula-doctor",
+        "title": "पुराने व जटिल फिस्टुला की जांच",
+        "subtitle": "वरिष्ठ डॉक्टर से परामर्श",
+        "description": "सालों पुराने या बार-बार सर्जरी के बाद भी दोबारा लौटने वाले फिस्टुला का सटीक परीक्षण।",
+        "image": "/images/fistula/fistula-consultation.jpg",
+        "prompt": "A professional and empathetic healthcare setting: an Indian doctor in a white medical coat consulting an adult patient across a tidy desk with a stethoscope and medical chart, discussing fistula symptoms and recovery plan, modern bright clinic room with NO religious symbols"
+      },
+      {
+        "id": "fistula-ksharsutra",
+        "title": "क्षारसूत्र व आयुर्वेदिक नली शुद्धि",
+        "subtitle": "जड़ से सुखाने का तरीका",
+        "description": "प्राकृतिक औषधियों और विशेष आयुर्वेदिक पद्धति द्वारा फिस्टुला की नली को अंदर से बंद करना।",
+        "image": "/images/fistula/fistula-ksharsutra.jpg",
+        "prompt": "A clean healthcare still-life: sterile stainless steel medical tray holding traditional herbal Ksharasutra medicated thread spool, glass dropper bottle with soothing herbal oil, and clean cotton gauze, representing safe Ayurvedic fistula management, clean bright clinical background with NO religious symbols"
+      },
+      {
+        "id": "fistula-recovery",
+        "title": "स्थायी राहत व सक्रिय जीवन",
+        "subtitle": "दर्द और परेशानी से मुक्ति",
+        "description": "बिना बेड रेस्ट के रोजमर्रा के काम जारी रखते हुए बीमारी से हमेशा के लिए छुटकारा।",
+        "image": "/images/fistula/fistula-relief.jpg",
+        "prompt": "An outdoor lifestyle health photograph: a cheerful Indian adult walking comfortably and pain-free in a sunny green public park with trees, representing full health recovery and active mobility after treatment, bright morning light, completely secular with NO religious symbols"
+      }
+    ]
+  },
   "concerns": {
     "title": "किन-किन लक्षणों का इलाज किया जाता है?",
     "description": "अगर आपको इनमें से कोई भी लक्षण है, तो तुरंत डॉक्टर से संपर्क करें:",
@@ -83,7 +120,7 @@
     "button": "अपॉइंटमेंट बुक करें"
   },
   "seo": {
-    "title": "भगंदर (Fistula) का सफल इलाज | Fistula Treatment Thane | Umang Clinic",
-    "description": "भगंदर का इलाज, फिस्टुला में राहत, लंबे समय से चले आ रहे फिस्टुला का पक्का उपचार। ठाणे (पश्चिम). कॉल: 9833826366."
+    "title": "भगंदर (Fistula) का सफल आयुर्वेदिक इलाज | Fistula Treatment in Thane | Umang Ayurvedic Clinic",
+    "description": "भगंदर (फिस्टुला) का प्रामाणिक आयुर्वेदिक व क्षारसूत्र इलाज। सालों पुराने फिस्टुला से पाएं छुटकारा। उमंग आयुर्वेदिक क्लिनिक ठाणे (पश्चिम). Best Ayurvedic clinic in Thane. Call: 9833826366."
   }
 }

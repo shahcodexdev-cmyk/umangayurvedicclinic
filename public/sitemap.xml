@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sexual Health & Sexology Clinic -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/sexual-health</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Piles & Laser Treatment -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/piles-treatment</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Fistula / Bhagandar Ksharasutra Care -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/fistula-treatment</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sciatica & Bone Joint Care -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/bone-joint-care</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- All Treatments Directory -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/treatments</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- About Clinic & Experienced Doctors -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/about</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Book Appointment -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/appointment</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Contact & Location (Thane Station West) -->
+  <url>
+    <loc>https://umangayurvedicclinic.vercel.app/contact</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

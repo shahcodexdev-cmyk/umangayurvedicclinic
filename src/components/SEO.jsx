@@ -1,39 +1,87 @@
 import React, { useEffect } from 'react';
 
-const SEO = ({ title, description, keywords, schema }) => {
+const SEO = ({ 
+  title, 
+  description, 
+  keywords, 
+  schema, 
+  canonical,
+  ogImage = '/logo.jpeg',
+  ogType = 'website'
+}) => {
   useEffect(() => {
     // 1. Update Document Title
     if (title) {
       document.title = title;
     }
 
-    // 2. Update Meta Description
+    // Helper to set or create a meta tag by name
+    const setMetaByName = (name, content) => {
+      if (!content) return;
+      let el = document.querySelector(`meta[name="${name}"]`);
+      if (el) {
+        el.setAttribute('content', content);
+      } else {
+        el = document.createElement('meta');
+        el.setAttribute('name', name);
+        el.setAttribute('content', content);
+        document.head.appendChild(el);
+      }
+    };
+
+    // Helper to set or create a meta tag by property (OG tags)
+    const setMetaByProperty = (property, content) => {
+      if (!content) return;
+      let el = document.querySelector(`meta[property="${property}"]`);
+      if (el) {
+        el.setAttribute('content', content);
+      } else {
+        el = document.createElement('meta');
+        el.setAttribute('property', property);
+        el.setAttribute('content', content);
+        document.head.appendChild(el);
+      }
+    };
+
+    // 2. Update Description & Keywords
     if (description) {
-      let metaDescription = document.querySelector('meta[name="description"]');
-      if (metaDescription) {
-        metaDescription.setAttribute('content', description);
-      } else {
-        metaDescription = document.createElement('meta');
-        metaDescription.name = 'description';
-        metaDescription.content = description;
-        document.head.appendChild(metaDescription);
-      }
+      setMetaByName('description', description);
+      setMetaByProperty('og:description', description);
+      setMetaByName('twitter:description', description);
     }
 
-    // 3. Update Meta Keywords (Bilingual English & Hindi)
     if (keywords) {
-      let metaKeywords = document.querySelector('meta[name="keywords"]');
-      if (metaKeywords) {
-        metaKeywords.setAttribute('content', keywords);
-      } else {
-        metaKeywords = document.createElement('meta');
-        metaKeywords.name = 'keywords';
-        metaKeywords.content = keywords;
-        document.head.appendChild(metaKeywords);
-      }
+      setMetaByName('keywords', keywords);
     }
 
-    // 4. Update JSON-LD Structured Data Schema for Search Engines
+    // 3. Update Title in OpenGraph and Twitter
+    if (title) {
+      setMetaByProperty('og:title', title);
+      setMetaByName('twitter:title', title);
+    }
+
+    // 4. Update Canonical and OG URL
+    const currentUrl = canonical || window.location.href;
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (canonicalLink) {
+      canonicalLink.setAttribute('href', currentUrl);
+    } else {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      canonicalLink.setAttribute('href', currentUrl);
+      document.head.appendChild(canonicalLink);
+    }
+    setMetaByProperty('og:url', currentUrl);
+
+    // 5. OpenGraph Type & Image
+    setMetaByProperty('og:type', ogType);
+    if (ogImage) {
+      const fullImageUrl = ogImage.startsWith('http') ? ogImage : `${window.location.origin}${ogImage}`;
+      setMetaByProperty('og:image', fullImageUrl);
+      setMetaByName('twitter:image', fullImageUrl);
+    }
+
+    // 6. Update JSON-LD Structured Data Schema
     if (schema) {
       let script = document.querySelector('script[type="application/ld+json"]#page-schema');
       if (!script) {
@@ -44,9 +92,10 @@ const SEO = ({ title, description, keywords, schema }) => {
       }
       script.textContent = JSON.stringify(schema);
     }
-  }, [title, description, keywords, schema]);
+  }, [title, description, keywords, schema, canonical, ogImage, ogType]);
 
   return null;
 };
 
 export default SEO;
+

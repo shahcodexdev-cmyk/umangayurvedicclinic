@@ -9,9 +9,10 @@ const Treatments = () => {
   return (
     <>
       <SEO 
-        title="For – Sex | Piles | Fistula | Bones & Sciatica | Umang Ayurvedic Clinic" 
-        description={treatmentsData.page.description} 
-        keywords="Sex, Piles, Fistula, Sciatica, Bones, Ayurvedic treatments Thane, बवासीर का इलाज, भगंदर, सेक्स समस्याएं, हड्डी में गैप, दबी नस"
+        title="Ayurvedic Treatments in Thane | Umang Ayurvedic Clinic | Sex, Piles, Fistula & Bones" 
+        description="Comprehensive Ayurvedic treatments in Thane West at Umang Ayurvedic Clinic: Sexual Health & Stamina, Piles & Fissure Laser Treatment, Fistula Ksharasutra, and Bone Gap & Sciatica." 
+        keywords="ayurvedic in thane, umang ayurvedic, umang ayurvedic clinic, ayurvedic treatments thane, sexologist in thane, piles treatment thane, fistula cure thane, sciatica treatment thane, बवासीर का इलाज ठाणे, आयुर्वेदिक उपचार"
+        canonical="https://umangayurvedicclinic.vercel.app/treatments"
       />
       
       {/* Hero */}

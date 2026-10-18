@@ -8,9 +8,10 @@ const Contact = () => {
   return (
     <>
       <SEO 
-        title="संपर्क करें (Contact Us) | Umang Ayurvedic Clinic Thane | 98338 26366" 
-        description="Office No. 101, सिद्धार्थ टॉवर, ठाणे स्टेशन (पश्चिम). सेक्स, बवासीर, भगंदर और साइटिका का इलाज। फोन: 98338 26366 / 8652674047."
-        keywords="Contact Umang Ayurvedic Clinic, Ayurvedic clinic Thane phone number, Thane West clinic address, 9833826366, 8652674047, ऑफिस 101, ठाणे क्लिनिक फोन" 
+        title="Contact Us | Umang Ayurvedic Clinic Thane | 98338 26366 | Thane Station West" 
+        description="Visit Umang Ayurvedic Clinic at Office No. 101, Siddharth Tower, Thane West (opposite Tip Top Sweet, near Thane Station). Call 98338 26366 / 8652674047. Leading Ayurvedic clinic in Thane." 
+        keywords="umang ayurvedic, ayurvedic in thane, umang ayurvedic clinic thane, ayurvedic clinic thane west, ayurvedic doctor thane phone number, thane station clinic address, 9833826366, 8652674047, उमंग आयुर्वेदिक क्लिनिक पता" 
+        canonical="https://umangayurvedicclinic.vercel.app/contact"
       />
       
       {/* Hero */}

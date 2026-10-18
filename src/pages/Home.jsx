@@ -9,17 +9,24 @@ import ProcessSteps from '../components/ProcessSteps';
 import CTASection from '../components/CTASection';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
+import HeroSlider from '../components/HeroSlider';
 import { Phone, CheckCircle2, ArrowRight } from 'lucide-react';
 
 const Home = () => {
   const homeSchema = {
     "@context": "https://schema.org",
-    "@type": "MedicalClinic",
+    "@type": ["MedicalClinic", "LocalBusiness"],
     "name": "Umang Ayurvedic Clinic (उमंग आयुर्वेदिक क्लिनिक)",
-    "alternateName": "Umang Clinic",
-    "url": "https://umangayurvedic.com",
-    "logo": "https://umangayurvedic.com/logo.jpeg",
-    "description": "उमंग आयुर्वेदिक क्लिनिक ठाणे - बवासीर, भगंदर, सेक्स समस्याएं और हड्डी में गैप व दबी नस (Sciatica) का सफल आयुर्वेदिक व यूनानी इलाज।",
+    "alternateName": [
+      "Umang Ayurvedic",
+      "Umang Clinic Thane",
+      "उमंग आयुर्वेदिक",
+      "उमंग आयुर्वेदिक क्लिनिक ठाणे"
+    ],
+    "url": "https://umangayurvedicclinic.vercel.app",
+    "logo": "https://umangayurvedicclinic.vercel.app/logo.jpeg",
+    "image": "https://umangayurvedicclinic.vercel.app/logo.jpeg",
+    "description": "उमंग आयुर्वेदिक क्लिनिक ठाणे - सेक्स समस्याएं, खूनी व बादी बवासीर, भगंदर और हड्डी में गैप व दबी नस (Sciatica) का सफल आयुर्वेदिक और यूनानी इलाज।",
     "medicalSpecialty": ["Ayurvedic", "Proctology", "SexualHealth", "Orthopedics"],
     "address": {
       "@type": "PostalAddress",
@@ -29,6 +36,12 @@ const Home = () => {
       "postalCode": "400602",
       "addressCountry": "IN"
     },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 19.1868,
+      "longitude": 72.9757
+    },
+    "hasMap": "https://maps.google.com/?q=Siddharth+Tower+Thane+Station+West",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -43,15 +56,19 @@ const Home = () => {
         "closes": "14:00"
       }
     ],
-    "telephone": "+919833826366"
+    "telephone": ["+919833826366", "+918652674047"],
+    "email": "umangayurvedicclinicthane@gmail.com",
+    "priceRange": "₹₹",
+    "areaServed": ["Thane", "Thane West", "Mumbai", "Mulund", "Kalyan", "Navi Mumbai"]
   };
 
   return (
     <>
       <SEO 
-        title="Umang Ayurvedic Clinic | For – Sex | Piles | Fistula | Bones & Sciatica | Thane"
-        description="उमंग आयुर्वेदिक क्लिनिक (ठाणे) - सेक्स समस्याएं, खूनी बवासीर, भगंदर और हड्डी में गैप व दबी नस (Sciatica) का सफल आयुर्वेदिक और यूनानी इलाज। कॉल: 98338 26366 / 8652674047."
-        keywords="Umang Ayurvedic Clinic, Sex doctor Thane, Piles treatment Thane, Laser piles, Fistula cure, Sciatica ayurvedic treatment, हड्डी में गैप, बवासीर, भगंदर, नपुंसकता, शीघ्रपतन, 9833826366"
+        title="Umang Ayurvedic Clinic | Best Ayurvedic Clinic in Thane | Sex, Piles, Sciatica & Fistula"
+        description="Umang Ayurvedic Clinic (उमंग आयुर्वेदिक क्लिनिक) in Thane West near Thane Station. Best Ayurvedic doctor in Thane for Piles, Sexual Health, Fistula & Sciatica. Call 98338 26366 / 8652674047."
+        keywords="umang ayurvedic, ayurvedic in thane, umang ayurvedic clinic, umang ayurvedic clinic thane, best ayurvedic doctor in thane, ayurvedic clinic thane west, ayurvedic doctor thane station, sexologist in thane, piles treatment thane, laser piles thane, fistula cure thane, sciatica treatment thane, हड्डी में गैप ठाणे, बवासीर का इलाज ठाणे, भगंदर, नपुंसकता, शीघ्रपतन, 9833826366"
+        canonical="https://umangayurvedicclinic.vercel.app/"
         schema={homeSchema}
       />
       
@@ -107,17 +124,8 @@ const Home = () => {
               </div>
             </div>
             
-            <div className="lg:w-1/2 relative">
-              <div className="absolute inset-0 bg-primary/10 rounded-full blur-3xl transform scale-110 -z-10"></div>
-              <img 
-                src={homeData.hero.image} 
-                alt="Umang Ayurvedic Clinic - Thane" 
-                className="rounded-2xl shadow-2xl object-cover h-[420px] lg:h-[500px] w-full"
-                onError={(e) => {
-                  e.target.onerror = null;
-                  e.target.src = 'https://via.placeholder.com/800x600?text=Umang+Clinic';
-                }}
-              />
+            <div className="lg:w-1/2 w-full relative">
+              <HeroSlider />
             </div>
           </div>
         </div>

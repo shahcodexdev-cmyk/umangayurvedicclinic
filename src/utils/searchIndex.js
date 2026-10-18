@@ -65,11 +65,11 @@ export const searchItems = [
   },
   {
     id: 'appointment',
-    title: 'अपॉइंटमेंट बुक करें (WhatsApp: 98338 26366)',
-    englishTitle: 'Book Appointment Online / WhatsApp Consultation',
+    title: 'अपॉइंटमेंट बुक करें (Call / WhatsApp: 98338 26366)',
+    englishTitle: 'Book Appointment via Phone & WhatsApp Consultation',
     category: 'अपॉइंटमेंट',
     path: '/appointment',
-    description: 'क्लिनिक विज़िट या WhatsApp पर तुरंत मिलने का समय पक्का करें।',
+    description: 'सीधे कॉल या WhatsApp पर डॉक्टर से तुरंत मिलने का समय पक्का करें (98338 26366 / 8652674047)।',
     keywords: [
       'appointment', 'book', 'booking', 'whatsapp', '9833826366', '8652674047',
       'timing', 'अपॉइंटमेंट', 'समय', 'बुकिंग', 'मिलने का समय'

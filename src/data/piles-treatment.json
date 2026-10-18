@@ -11,6 +11,43 @@
     "description": "पुरानी कब्ज, घंटों बैठकर काम करना और तला-भुना खाने से गुदा (anus) की नसों में सूजन आ जाती है, जिसे बवासीर कहते हैं। समय पर इलाज न कराने से मस्से बाहर आने लगते हैं और खून बहने लगता है। हमारे यहाँ बिना किसी तकलीफ के दवाओं और आधुनिक लेजर से मस्से सुखाने का सुरक्षित इलाज किया जाता है।",
     "image": "/images/treatment/piles.png"
   },
+  "majorTypes": {
+    "title": "बवासीर के प्रमुख लक्षण एवं समाधान",
+    "items": [
+      {
+        "id": "piles-pain",
+        "title": "खूनी व बादी बवासीर का दर्द",
+        "subtitle": "बैठने व शौच में असहनीय तकलीफ",
+        "description": "शौच के समय तेज दर्द, जलन या खून आना और बैठने में भारी परेशानी होना।",
+        "image": "/images/piles/sitting-pain.jpg",
+        "prompt": "A respectful, professional healthcare photograph: an Indian office worker in smart casual shirt sitting uncomfortably on an office chair, gently shifting weight with a grimace of pain and discomfort in the lower pelvic and seat area, representing sitting pain from piles, modern bright office room, absolutely NO religious symbols, dignified medical editorial photography"
+      },
+      {
+        "id": "piles-swelling",
+        "title": "मस्से व नसों में सूजन",
+        "subtitle": "डॉक्टर द्वारा सटीक जांच",
+        "description": "गुदा मार्ग की नसों में सूजन और मस्सों का बाहर आना। अनुभवी डॉक्टर से सही जांच व सलाह।",
+        "image": "/images/piles/swelling-consultation.jpg",
+        "prompt": "A respectful medical clinic consultation: an Indian Ayurvedic doctor wearing a white coat showing a patient an anatomical pelvic health diagram on a tablet screen, explaining swelling and vein inflammation with care and empathy, modern clean clinic desk with stethoscope, absolutely NO religious symbols, professional healthcare photography"
+      },
+      {
+        "id": "piles-constipation",
+        "title": "पुरानी कब्ज व पेट की समस्या",
+        "subtitle": "बीमारी का मुख्य कारण",
+        "description": "पेट साफ न होना, सख्त मल और पाचन की खराबी जिससे नसों पर अत्यधिक दबाव बनता है।",
+        "image": "/images/piles/constipation-cause.jpg",
+        "prompt": "A healthcare editorial photo: an Indian man gently pressing his lower abdomen with an expression of digestive discomfort, beside a glass of fresh water and a bowl of fresh fiber-rich fruits on a kitchen counter, symbolizing constipation and digestion care, bright natural daylight, clean secular setting with NO religious symbols, dignified medical photography"
+      },
+      {
+        "id": "piles-laser-cure",
+        "title": "आयुर्वेदिक व लेजर उपचार",
+        "subtitle": "बिना दर्द व चीर-फाड़ राहत",
+        "description": "प्राकृतिक आयुर्वेदिक औषधियों और आधुनिक लेजर तकनीक द्वारा मस्से सुखाने का सुरक्षित इलाज।",
+        "image": "/images/piles/laser-ayurvedic-cure.jpg",
+        "prompt": "A clean, modern medical clinic treatment room: a modern medical laser therapy machine alongside natural Ayurvedic herbal medicines and organic soothing balm, representing painless laser and Ayurvedic piles treatment, bright sterile professional clinic setting, clean background with NO religious symbols, professional medical photography"
+      }
+    ]
+  },
   "concerns": {
     "title": "किन लक्षणों और तकलीफों में राहत मिलती है?",
     "description": "हम इन सभी समस्याओं का असरदार इलाज करते हैं:",
@@ -84,7 +121,7 @@
     "button": "अपॉइंटमेंट बुक करें"
   },
   "seo": {
-    "title": "बवासीर का इलाज | Piles Treatment in Thane | Umang Ayurvedic Clinic",
-    "description": "खूनी बवासीर, दर्द व सूजन में राहत। लेजर की सुविधा उपलब्ध है। उमंग आयुर्वेदिक क्लिनिक ठाणे (पश्चिम). Call: 9833826366."
+    "title": "बवासीर (Piles) का लेजर व आयुर्वेदिक उपचार | Piles Treatment in Thane | Umang Ayurvedic Clinic",
+    "description": "खूनी व बादी बवासीर, दर्द और सूजन से तुरंत राहत। लेजर सुविधा उपलब्ध। उमंग आयुर्वेदिक क्लिनिक ठाणे (पश्चिम). Best Ayurvedic clinic in Thane. Call: 9833826366."
   }
 }

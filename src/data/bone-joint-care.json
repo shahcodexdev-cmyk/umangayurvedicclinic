@@ -11,6 +11,43 @@
     "description": "उम्र बढ़ने, भारी वजन उठाने या गलत तरीके से बैठने-उठने से रीढ़ की हड्डी में गैप कम हो जाता है और साइटिका नस दबने लगती है। इससे कूल्हे से लेकर पैर की उंगलियों तक तेज झनझनाहट, सुन्नपन और असहनीय दर्द होता है। उमंग आयुर्वेदिक क्लिनिक में हम आयुर्वेदिक और यूनानी दवाओं और तेल मालिश से दबी नस को खोलते हैं और नसों की सूजन को जड़ से मिटाते हैं।",
     "image": "/images/treatment/bones.png"
   },
+  "majorTypes": {
+    "title": "रीढ़, नस व जोड़ों के प्रमुख विकार एवं समाधान",
+    "items": [
+      {
+        "id": "sciatica-pain",
+        "title": "साइटिका व दबी नस का दर्द",
+        "subtitle": "कमर से पैर तक तेज खिंचाव",
+        "description": "कमर से लेकर कूल्हे और पैर की एड़ी तक जाने वाला तेज दर्द, झनझनाहट और सुन्नपन।",
+        "image": "/images/bones/sciatica-nerve-pain.jpg",
+        "prompt": "A dignified medical photograph: an Indian adult standing and gently holding their lower back and upper hip with an expression of sharp nerve pain radiating down the leg, representing sciatica nerve compression, bright clean living room, completely secular with NO religious symbols, professional healthcare photography"
+      },
+      {
+        "id": "spine-disc-gap",
+        "title": "हड्डी में गैप व स्लिप डिस्क",
+        "subtitle": "रीढ़ के मनकों में दबाव",
+        "description": "L4-L5 या L5-S1 में डिस्क का खिसकना, हड्डी में गैप कम होना और नसों पर भारी दबाव।",
+        "image": "/images/bones/spine-disc-gap.jpg",
+        "prompt": "A clean 3D medical anatomical visualization: human lumbar spine vertebrae showing intervertebral disc and yellow spinal nerve pathways with mild disc bulging cleanly highlighted, medical scientific textbook quality, clean neutral grey-blue background, NO religious symbols"
+      },
+      {
+        "id": "knee-arthritis-pain",
+        "title": "घुटनों का घिसाव व जोड़ों का दर्द",
+        "subtitle": "चलने-फिरने में भारी परेशानी",
+        "description": "घुटने के कार्टिलेज का घिसना, जोड़ों में कट-कट की आवाज, सूजन और सीढ़ियां चढ़ने में दर्द।",
+        "image": "/images/bones/knee-joint-pain.jpg",
+        "prompt": "A compassionate healthcare photograph: a senior Indian person seated, gently holding both hands around a swollen knee joint while preparing to stand up, representing knee osteoarthritis and joint care, bright warm indoor lighting, secular room with NO religious symbols"
+      },
+      {
+        "id": "ayurvedic-oil-spine-care",
+        "title": "आयुर्वेदिक तैल मालिश व नसों को शक्ति",
+        "subtitle": "बिना ऑपरेशन प्राकृतिक आराम",
+        "description": "विशेष जड़ी-बूटी युक्त तेलों से नसों का सुन्नपन मिटाना और जोड़ों में प्राकृतिक लचीलापन लौटाना।",
+        "image": "/images/bones/ayurvedic-oil-therapy.jpg",
+        "prompt": "An authentic Ayurvedic clinical wellness still-life: glass bottles of warm Mahanarayan and herbal pain-relief oils, a bowl of dry healing herbs, fresh leaves, and clean white cotton rolled towels on a dark wooden treatment table, soft warm lighting, professional clinical aesthetic, NO religious symbols"
+      }
+    ]
+  },
   "concerns": {
     "title": "किन-किन तकलीफों का सफल इलाज किया जाता है?",
     "description": "हमारे पास इन सभी समस्याओं का पक्का और भरोसेमंद इलाज है:",
@@ -84,7 +121,7 @@
     "button": "अपॉइंटमेंट बुक करें"
   },
   "seo": {
-    "title": "हड्डी में गैप व साइटिका का इलाज | Sciatica & Bone Care Thane | Umang Clinic",
-    "description": "हड्डी में गैप और दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से इलाज मुमकिन है। ठाणे (पश्चिम). Call: 9833826366 / 8652674047."
+    "title": "हड्डी में गैप, दबी नस व साइटिका का इलाज | Sciatica & Joint Pain in Thane | Umang Ayurvedic Clinic",
+    "description": "हड्डी में गैप और दबी नस (Sciatica) का आयुर्वेदिक और यूनानी दवाओं से सफल इलाज। उमंग आयुर्वेदिक क्लिनिक ठाणे (पश्चिम). Best Ayurvedic clinic in Thane. Call: 9833826366 / 8652674047."
   }
 }
